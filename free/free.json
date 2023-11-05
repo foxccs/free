@@ -656,15 +656,15 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/喜马拉雅.js"
     },
-
-      {
-      "key": "酷狗",
-      "name": "🌿┃酷狗音乐┃🎵",
-      "type": 3,
-      "api": "csp_KUGOU",
-      "playerType": "1",
-      "searchable": 0,
-      "changeable": 0
+    {
+     "key": "酷狗",
+     "name": " 🌿┃酷狗音乐",
+     "type": 3,
+     "jar": "./lib/yydf.jar",
+     "api": "csp_Kugou",
+     "playerType": "1",
+     "searchable": 0,
+     "changeable": 0
     },
     {
       "key": "Gitcafe",
