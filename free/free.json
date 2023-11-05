@@ -643,6 +643,30 @@
       "filterable": 0
     },
     {
+      "key": "drpy_js_博看听书",
+      "name": "🌿┃博看听书┃📕",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/博看听书.js"
+    },
+    {
+      "key": "drpy_js_喜马拉雅┃🎵",
+      "name": "🌿┃喜马拉雅",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/喜马拉雅.js"
+    },
+
+      {
+      "key": "酷狗",
+      "name": "🌿┃酷狗音乐┃🎵",
+      "type": 3,
+      "api": "csp_KUGOU",
+      "playerType": "1",
+      "searchable": 0,
+      "changeable": 0
+    },
+    {
       "key": "Gitcafe",
       "name": "🔍┃阿里|纸条搜",
       "type": 3,
