@@ -17,7 +17,7 @@
     },
     {
         "name": "青木直播",
-        "url": "https://raw.gitmirror.com/foxccs/free/main/foxccs/txt/live.txt&&&https://z1.ax1x.com/2023/10/14/pipXB6K.png"
+        "url": "https://raw.gitmirror.com/foxccs/free/main/foxccs/txt/mulive.txt&&&https://z1.ax1x.com/2023/10/14/pipXB6K.png"
     },
     {
         "name": "道长在线",
