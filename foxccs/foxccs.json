@@ -43,7 +43,7 @@
             "name": "📺︎┃电视┃直播",
             "type": 3,
             "api": "./js/直播转点播2.js",
-            "ext": "http://ftp6590005.host131.sanfengyun.cn/free/txt/zhibo.txt"
+            "ext": "./txt/zhibo.txt"
         },
         {
             "key": "新片热播",
