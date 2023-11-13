@@ -1,26 +1,86 @@
 [
     {
         "name": "超级MV",
-        "url": "http://ftp6590005.host131.sanfengyun.cn/free/txt/MV.txt&&&https://z1.ax1x.com/2023/10/14/pipTgxg.jpg"
+        "url": "https://raw.gitmirror.com/foxccs/free/main/foxccs/txt/MV.txt&&&https://z1.ax1x.com/2023/10/14/pipTgxg.jpg"
     },
     {
         "name": "多多影音",
-        "url": "http://ftp6590005.host131.sanfengyun.cn/free/txt/duolive.txt&&&http://3650000.xyz/api/360.php?cid=6"
+        "url": "https://raw.gitmirror.com/foxccs/free/main/foxccs/txt/duolive.txt&&&http://3650000.xyz/api/360.php?cid=6"
+    },
+    {
+        "name": "荷城茶秀",
+        "url": "https://raw.gitmirror.com/foxccs/free/main/foxccs/txt/荷城茶秀.txt&&&http://3650000.xyz/api/360.php?cid=6"
+    },
+    {
+        "name": "饭太硬",
+        "url": "https://raw.gitmirror.com/foxccs/free/main/foxccs/txt/饭太硬.txt&&&http://3650000.xyz/api/360.php?cid=6"
+    },
+    {
+        "name": "南风",
+        "url": "https://raw.gitmirror.com/foxccs/free/main/foxccs/txt/南风.txt&&&http://3650000.xyz/api/360.php?cid=6"
+    },
+    {
+        "name": "星辰",
+        "url": "https://raw.gitmirror.com/foxccs/free/main/foxccs/txt/星辰.txt&&&http://3650000.xyz/api/360.php?cid=6"
+    },
+    {
+        "name": "小虎",
+        "url": "https://raw.gitmirror.com/foxccs/free/main/foxccs/txt/小虎.txt&&&http://3650000.xyz/api/360.php?cid=6"
+    },
+    {
+        "name": "青木",
+        "url": "https://raw.gitmirror.com/foxccs/free/main/foxccs/txt/mulive.txt&&&http://3650000.xyz/api/360.php?cid=6"
+    },
+    {
+        "name": "巧儿",
+        "url": "https://raw.gitmirror.com/foxccs/free/main/foxccs/txt/巧儿.txt&&&http://3650000.xyz/api/360.php?cid=6"
+    },
+    {
+        "name": "天天开心",
+        "url": "https://raw.gitmirror.com/foxccs/free/main/foxccs/txt/天天开心.txt&&&http://3650000.xyz/api/360.php?cid=6"
+    },
+    {
+        "name": "湘雅情",
+        "url": "https://raw.gitmirror.com/foxccs/free/main/foxccs/txt/湘雅情.txt&&&http://3650000.xyz/api/360.php?cid=6"
+    },
+    {
+        "name": "小盒酷玩",
+        "url": "https://raw.gitmirror.com/foxccs/free/main/foxccs/txt/小盒酷玩.txt&&&http://3650000.xyz/api/360.php?cid=6"
+    },
+    {
+        "name": "小米",
+        "url": "https://raw.gitmirror.com/foxccs/free/main/foxccs/txt/小米.txt&&&http://3650000.xyz/api/360.php?cid=6"
+    },
+    {
+        "name": "心魔",
+        "url": "https://raw.gitmirror.com/foxccs/free/main/foxccs/txt/心魔.txt&&&http://3650000.xyz/api/360.php?cid=6"
+    },
+    {
+        "name": "业余",
+        "url": "https://raw.gitmirror.com/foxccs/free/main/foxccs/txt/业余.txt&&&http://3650000.xyz/api/360.php?cid=6"
+    },
+    {
+        "name": "运输车",
+        "url": "https://raw.gitmirror.com/foxccs/free/main/foxccs/txt/运输车.txt&&&http://3650000.xyz/api/360.php?cid=6"
+    },
+    {
+        "name": "道长",
+        "url": "https://raw.gitmirror.com/foxccs/free/main/foxccs/txt/道长2.txt&&&http://3650000.xyz/api/360.php?cid=6"
+    },
+    {
+        "name": "ABC",
+        "url": "https://raw.gitmirror.com/foxccs/free/main/foxccs/txt/abc.txt&&&http://3650000.xyz/api/360.php?cid=6"
     },
     {
         "name": "Ray0直播",
-        "url": "http://ftp6590005.host131.sanfengyun.cn/free/txt/Ray0.txt&&&https://z1.ax1x.com/2023/10/14/pipXB6K.png"
+        "url": "https://raw.gitmirror.com/foxccs/free/main/foxccs/txt/Ray0.txt&&&https://z1.ax1x.com/2023/10/14/pipXB6K.png"
     },
    {
         "name": "荷城茶秀",
-        "url": "http://ftp6590005.host131.sanfengyun.cn/free/txt/baishi.txt&&&https://z1.ax1x.com/2023/10/14/pipXB6K.png"
-    },
-    {
-        "name": "青木直播",
-        "url": "http://ftp6590005.host131.sanfengyun.cn/free/txt/live.txt&&&https://z1.ax1x.com/2023/10/14/pipXB6K.png"
+        "url": "https://raw.gitmirror.com/foxccs/free/main/foxccs/txt/HCCX.txt&&&https://z1.ax1x.com/2023/10/14/pipXB6K.png"
     },
     {
         "name": "道长在线",
-        "url": "http://ftp6590005.host131.sanfengyun.cn/free/txt/dz.txt&&&https://z1.ax1x.com/2023/10/14/pipTRMQ.jpg"
+        "url": "https://raw.gitmirror.com/foxccs/free/main/foxccs/txt/dz.txt&&&https://z1.ax1x.com/2023/10/14/pipTRMQ.jpg"
     }
 ]
