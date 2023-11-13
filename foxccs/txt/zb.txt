@@ -9,31 +9,31 @@
     },
     {
         "name": "荷城茶秀",
-        "url": "https://raw.gitmirror.com/foxccs/free/main/foxccs/txt/荷城茶秀.txt&&&http://3650000.xyz/api/360.php?cid=6"
+        "url": "https://raw.gitmirror.com/foxccs/free/main/foxccs/txt/荷城茶秀.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/0OIP-C.jpg"
     },
     {
         "name": "饭太硬",
-        "url": "https://raw.gitmirror.com/foxccs/free/main/foxccs/txt/饭太硬.txt&&&http://3650000.xyz/api/360.php?cid=6"
+        "url": "https://raw.gitmirror.com/foxccs/free/main/foxccs/txt/饭太硬.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/O3IP-C.jpg"
     },
     {
         "name": "南风",
-        "url": "https://raw.gitmirror.com/foxccs/free/main/foxccs/txt/南风.txt&&&http://3650000.xyz/api/360.php?cid=6"
+        "url": "https://raw.gitmirror.com/foxccs/free/main/foxccs/txt/南风.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/OIP-C.jpg"
     },
     {
         "name": "星辰",
-        "url": "https://raw.gitmirror.com/foxccs/free/main/foxccs/txt/星辰.txt&&&http://3650000.xyz/api/360.php?cid=6"
+        "url": "https://raw.gitmirror.com/foxccs/free/main/foxccs/txt/星辰.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/OIP-a.jpg"
     },
     {
         "name": "小虎",
-        "url": "https://raw.gitmirror.com/foxccs/free/main/foxccs/txt/小虎.txt&&&http://3650000.xyz/api/360.php?cid=6"
+        "url": "https://raw.gitmirror.com/foxccs/free/main/foxccs/txt/小虎.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/OIP6-C.jpg"
     },
     {
         "name": "青木",
-        "url": "https://raw.gitmirror.com/foxccs/free/main/foxccs/txt/mulive.txt&&&http://3650000.xyz/api/360.php?cid=6"
+        "url": "https://raw.gitmirror.com/foxccs/free/main/foxccs/txt/mulive.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/R-C.jpg"
     },
     {
         "name": "巧儿",
-        "url": "https://raw.gitmirror.com/foxccs/free/main/foxccs/txt/乔儿.txt&&&http://3650000.xyz/api/360.php?cid=6"
+        "url": "https://raw.gitmirror.com/foxccs/free/main/foxccs/txt/乔儿.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/下载.jpg"
     },
     {
         "name": "天天开心",
