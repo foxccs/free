@@ -150,6 +150,16 @@
              "filterable":1,
              "ext":"./json/影视工场.json"
          },
+         {
+            "key": "csp_七新",
+            "name": "🌿┃七新影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/七新影视.json"
+        },
         {
             "key": "csp_xBPQ_玖八",
             "name": "🌿┃098影视",
