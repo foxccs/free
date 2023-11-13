@@ -120,6 +120,16 @@
             "ext":"./json/乐鱼影视.json"
         },
         {
+            "key": "csp_XYQHiker_极客影院",
+            "name":"极客影院(XYQH)",
+            "type":3,
+            "api":"csp_XYQHiker",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"./json/极客影院.json"
+        },
+        {
             "key": "csp_xBPQ_玖八",
             "name": "🌿┃098影视",
             "type": 3,
