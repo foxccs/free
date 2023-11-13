@@ -90,6 +90,16 @@
             "ext": "./json/黑狐影视.json"
         },
         {
+            "key": "csp_XYQHiker_A8影视",
+            "name":"A8影视(XYQH)",
+            "type":3,
+            "api":"csp_XYQHiker",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"./json/A8影视.json"
+        },
+        {
             "key": "csp_xBPQ_玖八",
             "name": "🌿┃098影视",
             "type": 3,
