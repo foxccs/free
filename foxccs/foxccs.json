@@ -13,7 +13,7 @@
     "sites": [
         {
             "key": "豆豆",
-            "name": "🍃公众号：【Aoki分享】,QQ交流群：915945323",
+            "name": "🌅公众号：【Aoki分享】,QQ交流群：915945323",
             "type": 3,
             "jar": "./jar/fan.jar",
             "api": "csp_DouDou",
@@ -21,16 +21,17 @@
             "quickSearch": 0,
             "filterable": 0
         },
-        {
-            "key": "豆瓣",
-            "name": "接口免费，请勿上当受骗",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "./js/douban.js"
-        },
+       {
+           "key": "玩偶哥哥",
+           "name": "🌿┃玩偶弹幕",
+           "type": 3,
+           "jar": "./jar/fan.jar",
+           "api": "csp_WoGG",
+           "searchable": 1,
+           "quickSearch": 1,
+           "changeable": 0,
+           "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+        }, 
         {
             "key": "玩偶内置",
             "name": "🌿┃玩偶┃T4",
