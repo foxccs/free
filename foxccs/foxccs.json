@@ -23,15 +23,15 @@
         },
         {
           "key": "csp_KungFu404",
-          "name": "💠┃阿里┃设置",
-          "type": 3,
-          "jar": "./jar/alibaba.jar",
+          "name":"💠┃阿里设置",
+          "type": 3, 
           "api": "csp_KungFu404",
-          "searchable": 0,
+          "searchable":0,
           "filterable": 0,
-          "changeable": 0,
-          "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"
-       },
+          "changeable":0,
+          "jar":"./jar/alibaba.jar",
+          "ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
+        },
        {
            "key": "玩偶哥哥",
            "name": "🌿┃玩偶弹幕",
