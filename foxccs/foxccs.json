@@ -25,7 +25,7 @@
           "key": "csp_KungFu404",
           "name": "💠┃阿里┃设置",
           "type": 3,
-          "jar": "./lib/alibaba.jar",
+          "jar": "./jar/alibaba.jar",
           "api": "csp_KungFu404",
           "searchable": 0,
           "filterable": 0,
