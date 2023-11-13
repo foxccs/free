@@ -1482,7 +1482,7 @@
         },
         {
             "key": "虎牙直播",
-            "name": "🐯┃虎牙｜直播",
+            "name": "🐯┃虎牙｜直播js",
             "type": 3,
             "api": "./js/drpy2.min.js",
             "searchable": 0,
@@ -1492,13 +1492,33 @@
         },
         {
             "key": "斗鱼直播",
-            "name": "🐟┃斗鱼｜直播",
+            "name": "🐟┃斗鱼｜直播js",
             "type": 3,
             "api": "./js/drpy2.min.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
             "ext": "./js/douyu.js"
+        },
+        {
+            "key": "csp_XYQHiker_虎牙直播",
+            "name": "🐯┃虎牙｜直播",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "./json/虎牙直播.json"
+        },
+        {
+            "key": "csp_XYQHiker_斗鱼直播",
+            "name": "🐠┃斗鱼｜直播",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "./json/斗鱼直播.json"
         },
         {
             "key": "mtv_xp_动漫巴士",
