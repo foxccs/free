@@ -326,10 +326,10 @@ CCTV5+,http://jycb.f3322.net:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&au
 长清新闻,http://39.134.144.6:8089/PLTV/88888888/224/3221225865/index.m3u8
 章丘综合,http://39.134.144.6:8089/PLTV/88888888/224/3221226297/index.m3u8
 章丘综合,https://jsylivealone302.iqilu.com/zhangqiu/zhangqiu_tv01.m3u8
+章丘综合,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001073/index.m3u8
 章丘综合,rtmp://jsylivealone.iqilu.com/zhangqiu/zhangqiu_tv01
 章丘TV-2,https://jsylivealone302.iqilu.com/zhangqiu/zhangqiu_tv02.m3u8
 章丘TV-2, rtmp://jsylivealone.iqilu.com/zhangqiu/zhangqiu_tv02
-章丘1,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001073/index.m3u8
 平阴综合,https://jsylivealone302.iqilu.com/pingyin/pingyin_tv01.m3u8
 平阴综合,rtmp://jsylivealone.iqilu.com/pingyin/pingyin_tv01
 平阴生活,https://jsylivealone302.iqilu.com/pingyin/pingyin_tv02.m3u8
@@ -387,9 +387,9 @@ CCTV5+,http://jycb.f3322.net:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&au
 聊城公共,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000251/index.m3u8
 聊城公共,http://39.134.144.6:8089/PLTV/88888888/224/3221225977/index.m3u8
 茌平综合,rtmp://wslivealone.iqilu.com/chiping/chiping_tv01
-茌平生活,rtmp://wslivealone.iqilu.com/chiping/chiping_tv02
-茌平综合HD,http://39.134.144.6:8089/PLTV/88888888/224/3221226138/index.m3u8
+茌平综合,http://39.134.144.6:8089/PLTV/88888888/224/3221226138/index.m3u8
 茌平综合,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001048/index.m3u8
+茌平生活,rtmp://wslivealone.iqilu.com/chiping/chiping_tv02
 高唐综合,rtmp://wslivealone.iqilu.com/gaotang/gaotang_tv01
 高唐生活,rtmp://wslivealone.iqilu.com/gaotang/gaotang_tv02
 临清综合,https://jsylivealone302.iqilu.com/live/linqing_tv01.m3u8#rtmp://jsylivealone.iqilu.com/live/linqing_tv01
@@ -397,12 +397,12 @@ CCTV5+,http://jycb.f3322.net:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&au
 冠县综合,http://39.134.144.6:8089/PLTV/88888888/224/3221226095/index.m3u8
 冠县综合,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001040/index.m3u8
 冠县综合,https://jsylivealone302.iqilu.com/guanxian/guanxian_tv01.m3u8#rtmp://jsylivealone.iqilu.com/guanxian/guanxian_tv01
-阳谷新闻综合,https://jsylivealone302.iqilu.com/yanggu/yanggu_tv01.m3u8#rtmp://jsylivealone.iqilu.com/yanggu/yanggu_tv01
+阳谷新综合,https://jsylivealone302.iqilu.com/yanggu/yanggu_tv01.m3u8#rtmp://jsylivealone.iqilu.com/yanggu/yanggu_tv01
 阳谷影视,https://jsylivealone302.iqilu.com/yanggu/yanggu_tv02.m3u8#rtmp://jsylivealone.iqilu.com/yanggu/yanggu_tv02
 东阿新闻综合,https://jsylivealone302.iqilu.com/donge/donge_tv01.m3u8#rtmp://jsylivealone.iqilu.com/donge/donge_tv01
 东阿综艺信息,https://jsylivealone302.iqilu.com/donge/donge_tv02.m3u8#rtmp://jsylivealone.iqilu.com/donge/donge_tv02
 东阿综合,http://39.134.144.6:8089/PLTV/88888888/224/3221226378/index.m3u8
-东阿1,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001093/index.m3u8
+东阿综合,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001093/index.m3u8
 东昌综合,https://jsylivealone302.iqilu.com/dongchangfu/dongchangfu_tv01.m3u8#rtmp://jsylivealone.iqilu.com/dongchangfu/dongchangfu_tv01
 莘县综合,http://39.134.144.6:8089/PLTV/88888888/224/3221226136/index.m3u8
 
