@@ -1871,6 +1871,17 @@
             "filterable": 1,
             "ext": "./json/yunpanziliao.json"
         },
+       {
+          "key": "Gitcafe",
+          "name": "🖥┃小纸条(搜索)",
+          "type": 3,
+          "api": "csp_Gitcafe",
+          "playerType": 1,
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
+       },
         {
             "key": "ext_live_protocol",
             "name": "公众号：Aoki分享",
