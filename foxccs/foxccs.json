@@ -1875,7 +1875,7 @@
           "key": "Gitcafe",
           "name": "🖥┃小纸条(搜索)",
           "type": 3,
-          "jar": "./jar/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9",
+          "jar": "./jar/XYQ.jar;md5;a21ea6f5dd3b5f922b3a7f54d3bd0f16",
           "api": "csp_Gitcafe",
           "playerType": 1,
           "searchable": 1,
