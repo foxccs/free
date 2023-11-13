@@ -24,7 +24,9 @@
         {
             "key":"csp_LocalFile",
             "name":"💻┃本地视频",
-            "type":3,"api":"csp_LocalFile",
+            "type":3,
+            "jar":"./jar/XYQ.jar;md5;a21ea6f5dd3b5f922b3a7f54d3bd0f16",
+            "api":"csp_LocalFile",
             "searchable":0,
             "quickSearch":0,
             "filterable":0,
