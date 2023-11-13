@@ -27,7 +27,7 @@
           "type": 3,
           "jar": "./lib/alibaba.jar",
           "api": "csp_KungFu404",
-          "searchable": 1,
+          "searchable": 0,
           "filterable": 0,
           "changeable": 0,
           "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"
