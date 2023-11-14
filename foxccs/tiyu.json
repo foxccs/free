@@ -23,7 +23,7 @@
         },
         {
           "key":"m1905",
-          "name": "📺┃央视｜电影",
+          "name": "📺┃央视┃电影",
           "type": 3,
           "api":"py_cctv",
           "searchable": 0,
@@ -33,7 +33,7 @@
         },
         {
             "key": "央视经典",
-            "name": "📺┃央视｜经典",
+            "name": "📺┃央视┃经典",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -50,7 +50,7 @@
         },
        {
            "key": "玩偶哥哥",
-           "name": "🌿┃玩偶弹幕",
+           "name": "🌿┃玩偶┃弹幕",
            "type": 3,
            "jar": "./jar/fan.jar",
            "api": "csp_WoGG",
@@ -61,13 +61,13 @@
         }, 
         {
             "key": "玩偶内置",
-            "name": "🌿┃玩偶 T4",
+            "name": "🌿┃玩偶┃T4",
             "type": 4,
             "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=f376521b7ba247b183262c2732d870ba"
         },
         {
             "key": "新片热播",
-            "name": "🌿┃新片热播",
+            "name": "🌿┃新片┃热播",
             "type": 1,
             "api": "https://api.iku.cool/api.php/provide/vod/?ac=list",
             "searchable": 1,
@@ -91,7 +91,7 @@
         },
         {
             "key": "csp_XPath_企鹅体育",
-            "name": "🐧┃企鹅体育",
+            "name": "🐧┃企鹅┃体育",
             "type": 3,
             "api": "csp_XPath",
             "style": {
@@ -105,7 +105,7 @@
         },
         {
             "key": "88看球",
-            "name": "⚽┃88看球",
+            "name": "⚽┃88┃看球",
             "type": 3,
             "api": "./js/drpy2.min.js",
             "searchable": 0,
@@ -115,7 +115,7 @@
         },
         {
             "key": "JRKAN直播",
-            "name": "⚽┃JRKAN直播",
+            "name": "⚽┃JRKAN┃直播",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 0,
@@ -125,7 +125,7 @@
         },
         {
             "key": "js_310直播",
-            "name": "🏀┃三一直播",
+            "name": "🏀┃三一┃直播",
             "type": 3,
             "api": "./js/drpy2.min.js",
             "searchable": 1,
@@ -135,7 +135,7 @@
         },
         {
             "key": "py_TYjs",
-            "name": "🎳┃体育健身",
+            "name": "🎳┃体育┃健身",
             "type": 3,
             "api": "py_TYjs",
             "searchable": 0,
@@ -145,7 +145,7 @@
         },
         {
             "key": "py_FBqx",
-            "name": "🏀┃球队球星",
+            "name": "🏀┃球队┃球星",
             "type": 3,
             "api": "py_FBqx",
             "searchable": 0,
@@ -155,7 +155,7 @@
         },
         {
             "key": "py_cctv_企鹅",
-            "name": "📺┃体育直播",
+            "name": "📺┃体育┃直播",
             "type": 3,
             "api": "py_cctv_full",
             "searchable": 0,
@@ -164,8 +164,15 @@
             "ext": "./lib/py_企鹅体育.py"
         },
         {
+            "key": "拳皇争霸",
+            "name": "🥊┃拳皇┃争霸",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/quanhuang.js"
+        },
+        {
             "key": "csp_XYQHiker_虎牙直播",
-            "name": "🐯┃虎牙｜直播",
+            "name": "🐯┃虎牙┃直播",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -175,20 +182,13 @@
         },
         {
             "key": "csp_XYQHiker_斗鱼直播",
-            "name": "🐠┃斗鱼｜直播",
+            "name": "🐠┃斗鱼┃直播",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
             "ext": "./json/斗鱼直播.json"
-        },
-        {
-            "key": "拳皇争霸",
-            "name": "🥊┃拳皇｜争霸",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/quanhuang.js"
         },
         {
             "key": "ext_live_protocol",
