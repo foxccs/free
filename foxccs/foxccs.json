@@ -1300,8 +1300,9 @@
     },
     {
       "key": "皮皮虾",
-      "name": "🦀皮皮虾┃App",
+      "name": "🌲皮皮虾┃App",
       "type": 3,
+      "jar": "./jar/fan.jar",
       "api": "csp_AppSK",
       "searchable": 1,
       "quickSearch": 1,
