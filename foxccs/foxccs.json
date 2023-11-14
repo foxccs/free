@@ -1553,6 +1553,16 @@
             "ext": "./lib/cctv.py"
         },
         {
+          "key":"m1905",
+          "name": "📺┃央视｜电影",
+          "type": 3,
+          "api":"py_cctv",
+          "searchable": 0,
+          "quickSearch": 0,
+          "filterable": 0,
+          "ext": "./lib/m1905.py"
+        },
+        {
             "key": "虎牙直播",
             "name": "🐯┃虎牙｜直播js",
             "type": 3,
