@@ -131,6 +131,16 @@
             "ext":"./json/A8影视.json"
         },
         {
+            "key": "奈飞影视",
+            "name":"🌿┃鸭奈飞影",
+            "type":3,
+            "api":"csp_XYQHiker",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"./json/ynfys.json"
+        },
+        {
             "key": "csp_XYQHiker_乐鱼影视",
             "name":"🌿┃乐鱼影视",
             "type":3,"api":"csp_XYQHiker",
