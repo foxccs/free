@@ -83,7 +83,6 @@
            "key": "玩偶哥哥",
            "name": "🌿┃玩偶弹幕",
            "type": 3,
-           "jar": "./lib/fan.jar",
            "api": "csp_WoGG",
            "searchable": 1,
            "quickSearch": 1,
@@ -97,7 +96,6 @@
             "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=f376521b7ba247b183262c2732d870ba"
         },
  //JS区
-
 {
 "key":"爱奇异",
 "name":"🌱┃爱奇艺(官)",
