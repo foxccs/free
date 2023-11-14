@@ -1,0 +1,32 @@
+{
+  "urls": [
+    {
+      "url": "clan://localhost/box/Tongyong.json",
+      "name": "⚡️青木⚡️通用主线"
+    },
+   {
+      "url": "clan://localhost/box/Tongyong.json",
+      "name": "⚡️青木⚡️体育"
+    },
+   {
+      "url": "clan://localhost/box/Tongyong.json",
+      "name": "⚡️青木⚡️娱乐"
+    },
+   {
+      "url": "clan://localhost/box/Tongyong.json",
+      "name": "⚡️青木⚡️json"
+    },
+    {
+      "url": "clan://localhost/box/V3.json",
+      "name": "	⚡️青木⚡️直连"
+    },
+   {
+      "url": "clan://localhost/box/V3.json",
+      "name": "	⚡️青木⚡️搜索"
+    },
+    {
+      "url": "clan://localhost/box/cili.json",
+      "name": "青木⚡️磁力"
+    }
+  ]
+}
