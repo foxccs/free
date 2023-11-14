@@ -50,6 +50,36 @@
             "api": "./lib/直播转点播2.js",
             "ext": "./lib/zb.txt"
         },
+                {
+            "key": "央视经典",
+            "name": "📺┃央视｜经典",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/哔哩经典.json"
+        },
+        {
+            "key": "py_cctv",
+            "name": "📺┃央视｜大全",
+            "type": 3,
+            "api": "py_cctv",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./lib/cctv.py"
+        },
+        {
+          "key":"m1905",
+          "name": "📺┃央视｜电影",
+          "type": 3,
+          "api":"py_cctv",
+          "searchable": 0,
+          "quickSearch": 0,
+          "filterable": 0,
+          "ext": "./lib/m1905.py"
+        },
        {
            "key": "玩偶哥哥",
            "name": "🌿┃玩偶弹幕",
@@ -596,36 +626,6 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "./lib/duanshipin.json"
-        },
-        {
-            "key": "央视经典",
-            "name": "📺┃央视｜经典",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/哔哩经典.json"
-        },
-        {
-            "key": "py_cctv",
-            "name": "📺┃央视｜大全",
-            "type": 3,
-            "api": "py_cctv",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "./lib/cctv.py"
-        },
-        {
-          "key":"m1905",
-          "name": "📺┃央视｜电影",
-          "type": 3,
-          "api":"py_cctv",
-          "searchable": 0,
-          "quickSearch": 0,
-          "filterable": 0,
-          "ext": "./lib/m1905.py"
         },
         {
             "key": "csp_XYQHiker_虎牙直播",
