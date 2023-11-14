@@ -78,6 +78,17 @@
                 "动漫"
             ]
         },
+         {
+            "key": "csp_JianPian",
+            "name": "🌲荐片┃p2p",
+            "type": 3,
+            "api": "csp_JianPian",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ownjpykxttjzuhy.jiesiwa.com"
+        },
         {
             "key": "csp_XPath_企鹅体育",
             "name": "🐧┃企鹅体育",
