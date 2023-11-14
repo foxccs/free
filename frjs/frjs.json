@@ -144,7 +144,7 @@
  //直连区
         {
             "key": "天空资源",
-            "name": "🌲┃天空┃云播",
+            "name": "🌲天空┃云播",
             "type": 1,
             "api": "https://api.tiankongapi.com/api.php/provide/vod/",
             "searchable": 1,
