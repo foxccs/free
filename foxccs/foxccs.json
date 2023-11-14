@@ -1298,11 +1298,11 @@
       "quickSearch": 1,
       "filterable": 1
     },
-            {
+    {
       "key": "觅视频",
-      "name": "🌲觅视┃App",
+      "name": "🌲觅视频┃App",
       "type": 3,
-      "jar": "./jar/fan.jar",          
+      "jar": "./jar/fan.jar",
       "api": "csp_AppSK",
       "searchable": 1,
       "quickSearch": 1,
