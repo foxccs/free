@@ -19,7 +19,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./lib/py_cctv.py"
+            "ext": "./lib/cctv.py"
         },
         {
           "key":"m1905",
