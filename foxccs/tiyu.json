@@ -19,7 +19,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./lib/py_cctv.py"
+            "ext": "https://raw.githubusercontent.com/foxccs/free/main/frty/lib/py_cctv.py"
         },
         {
           "key":"m1905",
