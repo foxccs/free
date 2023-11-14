@@ -81,7 +81,7 @@
         },
        {
            "key": "玩偶哥哥",
-           "name": "🌿┃玩偶弹幕",
+           "name": "🌲玩偶┃弹幕",
            "type": 3,
            "api": "csp_WoGG",
            "searchable": 1,
@@ -91,7 +91,7 @@
         }, 
         {
             "key": "玩偶内置",
-            "name": "🌿┃玩偶 T4",
+            "name": "🌲玩偶┃T4",
             "type": 4,
             "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=f376521b7ba247b183262c2732d870ba"
         },
@@ -590,7 +590,7 @@
         },
         {
             "key": "cjzy_暴风资源",
-            "name": "🌲暴风影视",
+            "name": "🌲暴风┃影视",
             "type": 1,
             "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
