@@ -1,7 +1,7 @@
 {
-    "spider": "./lib/fan.jar",
+    "spider": " ./lib/foxccs.jar;md5;c253e1930a210fa5141e5418f1f90949",
     "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-    "lives": [
+    "lives": [  
         {
             "name": "live",
             "type": 0,
@@ -15,6 +15,7 @@
             "key": "豆豆",
             "name": "🌅公众号：【Aoki分享】,QQ交流群：915945323",
             "type": 3,
+            "jar":"./lib/fan.jar",
             "api": "csp_DouDou",
             "searchable": 0,
             "quickSearch": 0,
@@ -83,6 +84,7 @@
            "key": "玩偶哥哥",
            "name": "🌲玩偶┃弹幕",
            "type": 3,
+           "jar":"./lib/fan.jar",
            "api": "csp_WoGG",
            "searchable": 1,
            "quickSearch": 1,
