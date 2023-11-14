@@ -1302,6 +1302,7 @@
       "key": "觅视频",
       "name": "🌲觅视┃App",
       "type": 3,
+      "jar": "./jar/fan.jar",          
       "api": "csp_AppSK",
       "searchable": 1,
       "quickSearch": 1,
