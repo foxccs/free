@@ -24,7 +24,7 @@
             "key":"csp_LocalFile",
             "name":"💻┃本地视频",
             "type":3,
-            "jar":"./jar/XYQ.jar;md5;a21ea6f5dd3b5f922b3a7f54d3bd0f16",
+            "jar":"./lib/XYQ.jar;md5;a21ea6f5dd3b5f922b3a7f54d3bd0f16",
             "api":"csp_LocalFile",
             "searchable":0,
             "quickSearch":0,
@@ -39,7 +39,7 @@
           "searchable":0,
           "filterable": 0,
           "changeable":0,
-          "jar":"./jar/alibaba.jar",
+          "jar":"./lib/alibaba.jar",
           "ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
         },
         {
