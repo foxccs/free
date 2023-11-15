@@ -1,0 +1,28 @@
+{
+    "urls": [
+        {
+            "url": "http://111.67.201.131/swan/free/tongyong.json",
+            "name": "🦢青木⚡️通用主线"
+        },
+        {
+            "url": "http://111.67.201.131/swan/free/yule.json",
+            "name": "🦢青木⚡️娱乐"
+        },
+        {
+            "url": "http://111.67.201.131/swan/free/tiyu.json",
+            "name": "🦢青木⚡️体育"
+        },
+        {
+            "url": "http://111.67.201.131/swan/free/caiji.json",
+            "name": "🦢青木⚡️采集"
+        },
+        {
+            "url": "http://111.67.201.131/swan/free/sousuo.json",
+            "name": "🦢青木⚡️搜索"
+        },
+        {
+            "url": "http://111.67.201.131/swan/free/cili.json",
+            "name": "🦢青木⚡️磁力"
+        }
+    ]
+}
