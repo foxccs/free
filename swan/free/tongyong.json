@@ -13,7 +13,7 @@
     "sites": [
         {
             "key": "豆豆",
-            "name": "🦢QQ群：915945323🦅",
+            "name": "🐦QQ群：915945323",
             "type": 3,
             "jar": "./jar/fan.jar",
             "api": "csp_DouDou",
@@ -89,7 +89,7 @@
         },
         {
             "key": "新片热播",
-            "name": "🐦新片",
+            "name": "🐩新片",
             "type": 1,
             "api": "https://api.iku.cool/api.php/provide/vod/?ac=list",
             "searchable": 1,
@@ -102,7 +102,7 @@
         },
         {
             "key": "csp_JianPian",
-            "name": "🦜荐片",
+            "name": "🕊️荐片",
             "type": 3,
             "api": "csp_JianPian",
             "playerType": 1,
@@ -133,7 +133,7 @@
         },
         {
             "key": "csp_爱看",
-            "name": "🦚朱雀",
+            "name": "🐬朱雀",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -174,7 +174,7 @@
         },
        {
             "key": "csp_万达",
-            "name": "🦌白泽",
+            "name": "🐐白泽",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -194,8 +194,8 @@
         },
 {"key":"csp_圣城","name":"🐤仙鹤","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/圣城影视.json"},
       {"key":"csp_七年","name":"🐸貔貅","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/七年影视.json"},
-      {"key":"csp_好戏","name":"🦕乘黄","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/好戏影视.json"},
-{"key":"csp_午舞","name":"🦣穷奇","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/五五影视.json"},
+      {"key":"csp_好戏","name":"🐏乘黄","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/好戏影视.json"},
+{"key":"csp_午舞","name":"🐂穷奇","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/五五影视.json"},
        
         {
             "key": "腾讯资源",
@@ -261,7 +261,7 @@
         },
         {
             "key": "搜狐资源",
-            "name": "️🦊搜狐",
+            "name": "️🐿搜狐",
             "type": 1,
             "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/sohu/?at/xml/",
             "searchable": 1,
@@ -302,7 +302,7 @@
         },
         {
             "key": "爱奇艺资源",
-            "name": "️🥝爱奇艺",
+            "name": "️🍐爱奇艺",
             "type": 1,
             "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qiyi/?at/xml/",
             "searchable": 1,
@@ -333,7 +333,7 @@
         },
         {
             "key": "芒果资源",
-            "name": "️🥭芒果",
+            "name": "️🍋芒果",
             "type": 1,
             "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/mgtv/?at/xml/",
             "searchable": 1,
