@@ -1,7 +1,7 @@
 [
     {
         "name": "青木",
-        "url": "http://111.67.201.131/swan/free/txt/QMlive.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/mv.jpg"
+        "url": "http://111.67.201.131/swan/free/txt/青木.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/mv.jpg"
     },
     {
         "name": "多多",
