@@ -1,99 +1,99 @@
 [
     {
         "name": "青木",
-        "url": "http://111.67.201.131/swan/free/txt/青木.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/mv.jpg"
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/txt/青木.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/mv.jpg"
     },
     {
         "name": "多多",
-        "url": "http://111.67.201.131/swan/free/txt/多多.txt&&&http://3650000.xyz/api/360.php?cid=6"
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/txt/多多.txt&&&http://3650000.xyz/api/360.php?cid=6"
     },
     {
         "name": "荷城茶秀",
-        "url": "http://111.67.201.131/swan/free/txt/荷城茶秀.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/0OIP-C.jpg"
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/txt/荷城茶秀.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/0OIP-C.jpg"
     },
     {
         "name": "饭太硬",
-        "url": "http://111.67.201.131/swan/free/txt/饭太硬.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/O3IP-C.jpg"
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/txt/饭太硬.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/O3IP-C.jpg"
     },
     {
         "name": "南风",
-        "url": "http://111.67.201.131/swan/free/txt/南风.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/OIP-C.jpg"
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/txt/南风.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/OIP-C.jpg"
     },
     {
         "name": "星辰",
-        "url": "http://111.67.201.131/swan/free/txt/星辰.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/OIP-a.jpg"
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/txt/星辰.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/OIP-a.jpg"
     },
     {
         "name": "小胡",
-        "url": "http://111.67.201.131/swan/free/txt/小胡.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/OIP6-C.jpg"
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/txt/小胡.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/OIP6-C.jpg"
     },
     {
         "name": "肥猫",
-        "url": "http://111.67.201.131/swan/free/txt/肥猫.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/R-C.jpg"
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/txt/肥猫.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/R-C.jpg"
     },
     {
         "name": "巧儿",
-        "url": "http://111.67.201.131/swan/free/txt/巧儿.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/下载.jpg"
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/txt/巧儿.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/下载.jpg"
     },
     {
         "name": "天天开心",
-        "url": "http://111.67.201.131/swan/free/txt/天天开心.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/a.jpg"
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/txt/天天开心.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/a.jpg"
     },
     {
         "name": "湘雅情",
-        "url": "http://111.67.201.131/swan/free/txt/湘雅情.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/b.jpg"
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/txt/湘雅情.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/b.jpg"
     },
     {
         "name": "小盒酷玩",
-        "url": "http://111.67.201.131/swan/free/txt/小盒酷玩.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/c.jpg"
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/txt/小盒酷玩.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/c.jpg"
     },
     {
         "name": "小米",
-        "url": "http://111.67.201.131/swan/free/txt/小米.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/d.jpg"
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/txt/小米.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/d.jpg"
     },
     {
         "name": "心魔",
-        "url": "http://111.67.201.131/swan/free/txt/心魔.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/e.jpg"
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/txt/心魔.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/e.jpg"
     },
     {
         "name": "业余",
-        "url": "http://111.67.201.131/swan/free/txt/业余.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/f.jpg"
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/txt/业余.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/f.jpg"
     },
     {
         "name": "运输车",
-        "url": "http://111.67.201.131/swan/free/txt/运输车.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/g.jpg"
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/txt/运输车.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/g.jpg"
     },
     {
         "name": "道长",
-        "url": "http://111.67.201.131/swan/free/txt/道长.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/k.jpg"
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/txt/道长.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/k.jpg"
     },
     {
         "name": "ABC",
-        "url": "http://111.67.201.131/swan/free/txt/abc.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/j.jpg"
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/txt/abc.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/j.jpg"
     },
     {
         "name": "dxawi",
-        "url": "http://111.67.201.131/swan/free/txt/dxawi.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/h.jpg"
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/txt/dxawi.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/h.jpg"
     },
    {
         "name": "lxh4k",
-        "url": "http://111.67.201.131/swan/free/txt/lxh4k.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/m.jpg"
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/txt/lxh4k.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/m.jpg"
     },
    {
         "name": "zzz1",
-        "url": "http://111.67.201.131/swan/free/txt/zzz1.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/n.jpg"
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/txt/zzz1.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/n.jpg"
     },
  
    {
         "name": "月光宝盒",
-        "url": "http://111.67.201.131/swan/free/txt/月光宝盒.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/n.jpg"
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/txt/月光宝盒.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/n.jpg"
     },
     {
         "name": "分享者",
-        "url": "http://111.67.201.131/swan/free/txt/分享者.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/n.jpg"
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/txt/分享者.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/n.jpg"
     },
     {
         "name": "菜妮丝",
-        "url": "http://111.67.201.131/swan/free/txt/菜妮丝.txt&&&https://z1.ax1x.com/2023/10/14/pipTRMQ.jpg"
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/txt/菜妮丝.txt&&&https://z1.ax1x.com/2023/10/14/pipTRMQ.jpg"
     }
 ]
