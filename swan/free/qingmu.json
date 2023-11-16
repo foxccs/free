@@ -1,27 +1,27 @@
 {
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/foxccs/free/main/swan/free/tongyong.json",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/txt/tongyong.json",
             "name": "🍃青木🌷通用主线"
         },
         {
-            "url": "https://raw.githubusercontent.com/foxccs/free/main/swan/free/yule.json",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/txt/yule.json",
             "name": "🍃青木🌷娱乐"
         },
         {
-            "url": "https://raw.githubusercontent.com/foxccs/free/main/swan/free/tiyu.json",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/txt/tiyu.json",
             "name": "🍃青木🌷体育"
         },
         {
-            "url": "https://raw.githubusercontent.com/foxccs/free/main/swan/free/caiji.json",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/txt/caiji.json",
             "name": "🍃青木🌷采集"
         },
         {
-            "url": "https://raw.githubusercontent.com/foxccs/free/main/swan/free/sousuo.json",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/txt/sousuo.json",
             "name": "🍃青木🌷搜索"
         },
         {
-            "url": "https://raw.githubusercontent.com/foxccs/free/main/swan/free/cili.json",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/txt/cili.json",
             "name": "🍃青木🌷磁力"
         }
     ]
