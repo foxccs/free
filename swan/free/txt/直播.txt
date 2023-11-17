@@ -1,6 +1,6 @@
 [
     {
-        "name": "MV",
+        "name": "超级MV",
         "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/foxccs/txt/MV.txt&&&http://3650000.xyz/api/360.php?cid=6"
     },
     {
