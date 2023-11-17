@@ -1,5 +1,9 @@
 [
     {
+        "name": "MV",
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/foxccs/txt/MV.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/n.jpg"
+    },
+    {
         "name": "青木",
         "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/txt/青木单线路.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/mv.jpg"
     },
@@ -83,13 +87,5 @@
     {
         "name": "分享者",
         "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/txt/分享者.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/n.jpg"
-    },
-    {
-        "name": "MV",
-        "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/foxccs/txt/MV.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/n.jpg"
-    },
-    {
-        "name": "菜妮丝",
-        "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/txt/菜妮丝.txt&&&https://z1.ax1x.com/2023/10/14/pipTRMQ.jpg"
     }
 ]
