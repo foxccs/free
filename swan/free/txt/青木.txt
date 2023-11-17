@@ -749,31 +749,7 @@ CCTV5+ 体育赛事,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c4
 纬来体育,https://s2.pub/Y-32
 纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 
-爱尔达体育,mitv://generationnexxxt.com:19806/78f0528dc57342bc9dcf2cd0ba651b77
-爱尔达体育,mitv://generationnexxxt.com:19806/3cae761b10bc4219971774de9fe9e65f
-爱尔达体育,mitv://generationnexxxt.com:19806/d582b527992f4ea599cbfdb2b9911ddb
-爱尔达体育,mitv://generationnexxxt.com:19806/81badd1c48c64fabba67d2a72c0d8a07
 爱尔达体育,mitv://generationnexxxt.com:19806/da31bf2432a847b5a3484ecdc898856a
-爱尔达体育,http://50.7.238.114:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
-爱尔达体育,http://198.16.100.90:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
-爱尔达体育,http://198.16.100.90:8278/eltasport_twn/playlist.m3u8?tid=MB5B8133126081331260&ct=19225&tsum=5cb9d121709b107014d31cf856f3572e
-爱尔达体育,rtmp://9wv7.mine.nu/sat/md051
-爱尔达体育,http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
-
-TVB无线财经体育资讯,https://s2.pub/Y-19
-TVB无线财经体育资讯,rtmp://9sv1.mine.nu:1935/sat/hk011
-TVB无线财经体育资讯,rtmp://9sv1.mine.nu:1935/sat/hk031
-TVB无线财经体育资讯,http://r.jdshipin.com/jUx8K$特殊线路
-TVB无线财经体育资讯,https://i.125011.xyz/tvb.php?id=2&hq
-TVB无线财经体育资讯,https://i.125011.xyz/live.php?auth=230930&id=wxcj
-TVB无线财经体育资讯,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxNR4FqM3EgPoN7yqNVDCIzY/ts
-
-体育赛事,http://jh.d7g.cn/mg.php?id=tyss
-体育赛事,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226567/index.m3u8
-
-无线财经体育,http://r.jdshipin.com/jUx8K
-无线财经体育,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
-无线财经体育,http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt
 
 爱体育,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
 
@@ -834,7 +810,7 @@ TVB无线财经体育资讯,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXu
 央视台球,https://live.goodiptv.club/api/cqyx.php?id=ystqHD
 
 
-🎞️|影视综合,#genre#
+🎞️丨影视综合,#genre#
 
 CHC动作电影,http://125.40.191.58:9901/tsfile/live/1002_1.m3u8
 CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
