@@ -72,10 +72,6 @@
         "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/txt/abc.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/j.jpg"
     },
    {
-        "name": "lxh4k",
-        "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/txt/lxh4k.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/m.jpg"
-    },
-   {
         "name": "zzz1",
         "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/txt/zzz1.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/n.jpg"
     },
