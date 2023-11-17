@@ -755,60 +755,22 @@ CCTV5+ 体育赛事,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c4
 
 ⚽丨足球频道,#genre#
 风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
-风云足球,http://www.tvzb.com/iptv/tvzb82.php?id=fyzq
 风云足球,http://gxdl-lhs.8866.org:85/tsfile/live/1100_1.m3u8?key=txiptv&playlive=1&authid=0
 风云足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 风云足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
-风云足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
-风云足球,https://live.goodiptv.club/api/cqyx.php?id=fyzqHD
-风云足球,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=fyzqHD
-风云足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
-风云足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
-风云足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
-风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
-风云足球,http://china.733240.com/cqyx.php?id=fyzqHD
-风云足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
-风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
-风云足球,https://live.goodiptv.club/api/cqyx.php?id=fyzqHD
-风云足球,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-风云足球,http://bytedance.live.cqccn.com/__cl/cg:live/__c/fyzqHD/__op/default/__f//index.m3u8
-风云足球,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/fyzqHD/__op/default/__f//index.m3u8
-风云足球,http://ainm.cc/a/play/php/gudou.php?id=fyzq
-风云足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
-风云足球,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=fengyunzuqiu_1500&/PLTV/hls.smil.m3u8
 
 魅力足球,http://rihou.cc:61/qiepian/bestv.php?id=mlzq
 魅力足球,https://live.goodiptv.club/api/cqyx.php?id=mlzqHD
 魅力足球,http://angtv.cc/test/gehua.php?id=mlzq
-魅力足球,http://ainm.cc/a/play/php/gudou.php?id=mlzq
-魅力足球,https://cntv.sbs/tv?auth=230813&id=mlzq
-魅力足球,https://cntv.sbs/tv?auth=2310201855&id=mlzq
-魅力足球,https://cntv.sbs/tv/v6.php?id=mlyy
-魅力足球,https://cntv.sbs/live?auth=2307280808&id=mlzq
-魅力足球,http://rihou.cc:61/qiepian/bestv切片.php?id=mlyyhd8m/8000000
-魅力足球,https://tv.youshijiea.cn/uploads/itvbox/cqgd.php?id=mlzqHD
-魅力足球,https://live.goodiptv.club/api/bestv.php?id=mlyyhd8m/8000000
 魅力足球,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=mlzqHD
-魅力足球,http://140.207.241.3:8080/live/program/live/mlyyhd/4000000/d1.m3u8
-魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 魅力足球,http://[2409:8087:4400:20:1:a0f:12:2e]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226558/index.m3u8
-魅力足球,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/mlzqHD/__op/default/__f/index.m3u8
-魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
-魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8?zshangd
-魅力足球,http://zhuji.sdrnwl.cn:9901/tsfile/live/1053_1.m3u8
-魅力足球,http://60.208.16.27:1505/gudou.php?id=meiliyinyueHD_7000
-魅力足球,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=meiliyinyueHD_7000
-魅力足球,http://angtv.cc/test/gehua.php?id=mlzq2
 
 高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
 高尔夫网球,http://china.733240.com/cqyx.php?id=golfHD
 
 央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
 央视台球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
-央视台球,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002496/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-央视台球,http://china.733240.com/cqyx.php?id=ystqHD
 央视台球,https://live.goodiptv.club/api/cqyx.php?id=ystqHD
-
 
 🎞️丨影视综合,#genre#
 
