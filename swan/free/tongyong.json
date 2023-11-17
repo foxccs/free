@@ -186,7 +186,7 @@
 {"key":"csp_圣城","name":"🐤仙鹤","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/圣城影视.json"},
       {"key":"csp_七年","name":"🐸貔貅","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/七年影视.json"},
       {"key":"csp_好戏","name":"🐏乘黄","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/好戏影视.json"},
-{"key":"csp_午舞","name":"🐂穷奇","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/五五影视.json"},
+{"key":"csp_午舞","name":"🦏穷奇","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/五五影视.json"},
        
         {
             "key": "腾讯资源",
