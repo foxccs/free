@@ -734,8 +734,6 @@ CCTV5+ 体育赛事,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c4
 五星体育,http://rihou.cc:61/qiepian/bestv.php?id=wxty
 五星体育,http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
 
-新视觉,http://rihou.cc:61/qiepian/bestv切片.php?id=xsjhd8m/8000000
-
 超级体育,http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
 超级体育,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225767/index.m3u8
 
@@ -748,8 +746,6 @@ CCTV5+ 体育赛事,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c4
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
 纬来体育,https://s2.pub/Y-32
 纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
-
-爱尔达体育,mitv://generationnexxxt.com:19806/da31bf2432a847b5a3484ecdc898856a
 
 爱体育,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
 
