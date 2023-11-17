@@ -13,7 +13,7 @@
     "sites": [
         {
             "key": "py_cctv",
-            "name": "🦅CCTV🎈青木整理🎈常优化",
+            "name": "🐦CCTV🎈青木整理🎈常优化",
             "type": 3,
             "api": "py_cctv",
             "searchable": 0,
@@ -123,6 +123,13 @@
             "ext": "./lib/py_企鹅体育.py"
         },
         {
+            "key": "拳皇争霸",
+            "name": "👊┃拳皇争霸",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/quanhuang.js"
+        },
+        {
             "key": "csp_XYQHiker_虎牙直播",
             "name": "🐯┃虎牙直播",
             "type": 3,
@@ -143,13 +150,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "./json/斗鱼直播.json"
-        },
-        {
-            "key": "拳皇争霸",
-            "name": "🥊┃拳皇争霸",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/quanhuang.js"
         },
         {
             "key": "ext_live_protocol",
