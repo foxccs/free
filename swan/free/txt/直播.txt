@@ -64,16 +64,8 @@
         "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/txt/运输车.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/g.jpg"
     },
     {
-        "name": "道长",
-        "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/txt/道长.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/k.jpg"
-    },
-    {
         "name": "ABC",
         "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/txt/abc.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/j.jpg"
-    },
-    {
-        "name": "dxawi",
-        "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/txt/dxawi.txt&&&https://raw.gitmirror.com/foxccs/free/main/foxccs/tupian/h.jpg"
     },
    {
         "name": "lxh4k",
