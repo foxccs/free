@@ -354,61 +354,10 @@ CCTV5+ 体育赛事,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890
 
 北京体育,http://rihou.cc:61/qiepian/edu.php?id=bjtyxx
 
-五星体育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?
-
-新视觉,http://112.25.48.69/live/program/live/xsjhd/4000000/mnf.m3u8?blog.ntnas.top
-
 超级体育,http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
-
 
 精品体育,http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
 
-劲爆体育,http://60.208.16.27:1505/gudou.php?id=jinbaotiyuHD_7000
-
-咪咕体育,http://39.137.49.76:8080/PLTV/88888888/224/3221226241/index.m3u8?
-
-纬来体育,https://pull-f5-spe.ixigua.com/live/YesLiveTV-2aa38a71-bf06-423e-8462-68f6710a31c6/index.m3u8
-
-
-ELEVEN体育,mitv://generationnexxxt.com:19806/7a2476594a0b4d03b66470b069243f1f
-
-ELTA体育,http://www.best336699.com:1935/besttv/IR11.stream/playlist.m3u8
-
-
-体育休闲,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
-爱尔达体育,mitv://generationnexxxt.com:19806/78f0528dc57342bc9dcf2cd0ba651b77
-
-TVB无线财经体育资讯,https://s2.pub/Y-19
-
-
-
-体育赛事,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226567/index.m3u8
-
-无线财经体育,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
-
-爱体育,http://111.40.196.27:443/0000000000001000/6000000006000290630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000290630
-
-极速汽车体育,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8?zshangd
-
-
-Now 体育台,http://pull-tbj1.alivecdn.com/live/RKoiTiaWbKDkRW7aHdACa6D0fFPnXy5g.flv
-
-环宇体育,https://cn-jssz-cm-02-12.bilivideo.com/live-bvc/391274/live_552172307_35103163.flv?expires=1692955349&pt=h5&deadline=1692955349&len=0&oi=3085208287&platform=h5&qn=10000&trid=100030cde07df47247f985292ae32571422d&uipk=100&uipv=100&nbs=1&uparams=cdn,deadline,len,oi,platform,qn,trid,uipk,uipv,nbs&cdn=cn-gotcha01&upsig=7de29aa7f96b576f5c65f5041540661a&sk=220b77a78279e4f150b4142a1f28bd69&p2p_type=0&sl=1&free_type=0&mid=0&sid=cn-jssz-cm-02-12&chash=1&bmt=1&sche=ban&score=3&pp=rtmp&source=onetier&trace=10c9&site=e1ac348ff367fe5d42071d6cbe14874e&order=1
-
-屿风体育,https://www.goodiptv.club/douyu/10329889
-
-体育影视剧,http://jh.d7g.cn/mg.php?id=tyysj
-
-小嘿体育v,https://www.goodiptv.club/bilibili/27686415
-
-博斯运动一,http://154.216.191.59/ycdz/tw220.php?id=3
-
-時尚运动X,http://www.336699.live:1935/blockfour/4gtv-4gtv014.stream/playlist.m3u8
-
-Fashion4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-
-财经体育资讯台,http://r.jdshipin.com/Nr5jq
 
 ⚽|足球频道,#genre#
 风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
