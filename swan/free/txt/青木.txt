@@ -6,8 +6,8 @@ CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
 CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
 CCTV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
-CCTV5 体育,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-CCTV5+ 体育赛事,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
+CCTV5,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 CCTV6,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
 CCTV7,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
 CCTV8,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
@@ -238,7 +238,7 @@ CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 
 
- 🏔︎|山东电视台,#genre#
+ 🏔︎丨山东电视台,#genre#
 山东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
 山东卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000301/index.m3u8
 山东卫视,http://39.136.48.99:8089/PLTV/88888888/224/3221226144/index.m3u8
@@ -468,7 +468,7 @@ CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 德州综合,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000206/index.m3u8
 
 
-📯|移动专区,#genre#
+📯丨移动专区,#genre#
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
@@ -730,144 +730,24 @@ CCTV5+ 体育赛事,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c4
 北京体育,http://angtv.cc/test/gehua.php?id=bjtyxx
 北京体育,http://angtv.cc/test/gehua.php?id=bjtyxxhd
 
-五星体育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?
-五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8?
-五星体育,http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
-五星体育,http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
-五星体育,http://111.40.196.27:443/0000000000001000/5000000010000017540/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000017540
-五星体育,http://111.40.196.25:443/PLTV/88888888/224/3221225503/1.m3u8
-五星体育,http://112.25.48.69/live/program/live/ssty/4000000/mnf.m3u8
-五星体育,http://140.207.241.3:8080/live/program/live/ssty/4000000/d1.m3u8
-五星体育,http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
-五星体育,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/wxtyhd8m/8000000/mnf.m3u8
-五星体育,https://cntv.sbs/live?auth=2307280808&id=wxty
-五星体育,https://cntv.sbs/v6?auth=2307280808&id=018
-五星体育,http://lhttp.qingting.fm/live/4928/64k.mp3
-五星体育,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ssty/2300000/mnf.m3u8
-五星体育,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
-五星体育,http://rihou.cc:61/qiepian/bestv.php?id=wxty
 五星体育,http://rihou.cc:61/qiepian/bestv切片.php?id=wxtyhd8m/8000000
-五星体育,http://zb.ldlive.xyz/zbtv/bestv2.php?id=wxtyhd8m/8000000
-五星体育,http://zb.ldlive.xyz/zbtv/bestv.php?id=wxtyhd8m/8000000
+五星体育,http://rihou.cc:61/qiepian/bestv.php?id=wxty
+五星体育,http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
 
-新视觉,http://112.25.48.69/live/program/live/xsjhd/4000000/mnf.m3u8?blog.ntnas.top
-新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
-新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?zshangd
 新视觉,http://rihou.cc:61/qiepian/bestv切片.php?id=xsjhd8m/8000000
 
 超级体育,http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
-超级体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
-超级体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225648/index.m3u8
-超级体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225767/index.m3u8
-超级体育,http://39.134.116.30:8080/PLTV/88888910/224/3221225622/index.m3u8
-超级体育,http://39.135.138.59:18890/PLTV/88888910/224/3221225648/index.m3u8
-超级体育,http://39.135.138.59:18890/PLTV/88888910/224/3221225767/index.m3u8
-超级体育,http://39.135.138.60:18890/PLTV/88888910/224/3221225709/index.m3u8
-超级体育,http://39.135.138.58:18890/PLTV/88888888/224/3221225767/index.m3u8
-超级体育,http://39.135.138.58:18890/PLTV/88888910/224/3221225622/index.m3u8
-超级体育,http://39.135.138.58:18890/PLTV/88888910/224/3221225648/index.m3u8
-超级体育,http://39.135.138.58:18890/PLTV/88888910/224/3221225767/index.m3u8
-超级体育,http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8
-超级体育,http://39.135.138.60:18890/PLTV/88888888/224/3221225622/index.m3u8
-超级体育,http://39.135.138.60:18890/PLTV/88888888/224/3221225648/index.m3u8
-超级体育,http://39.135.138.60:18890/PLTV/88888888/224/3221225767/index.m3u8
-超级体育,http://39.135.138.60:18890/PLTV/88888910/224/3221225709/index.m3u8
-超级体育,http://39.135.138.60:18890/PLTV/88888910/224/3221225648/index.m3u8
-超级体育,http://39.135.138.58:18890/PLTV/88888888/224/3221225622/index.m3u8?blog.ntnas.top
-超级体育,http://111.40.196.27:443/0000000000001000/5000000001000004876/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000001000004876
-超级体育,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225622/2/index.m3u8
-超级体育,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225648/2/index.m3u8
-超级体育,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225767/2/index.m3u8
-超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-超级体育,http://rihou.cc:61/qiepian/bestv切片.php?id=qcsj8m/8000000
-超级体育,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225622/index.m3u8
-超级体育,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225648/index.m3u8
-超级体育,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225767/index.m3u8
-超级体育,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225767/index.m3u8?blo
-超级体育,https://live.goodiptv.club/api/bestv.php?id=qcsj8m/8000000
-超级体育,http://zb.ldlive.xyz/zbtv/bestv.php?id=qcsj8m/8000000
-超级体育,http://zb.ldlive.xyz/zbtv/bestv2.php?id=qcsj8m/8000000
-超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-超级体育,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225622/index.m3u8
-超级体育,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225648/index.m3u8
 超级体育,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225767/index.m3u8
 
 精品体育,http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
-精品体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225709/index.m3u8
-精品体育,http://39.135.138.58:18890/PLTV/88888888/224/3221225709/index.m3u8
-精品体育,http://111.40.196.37/PLTV/88888888/224/3221225608/index.m3u8
 精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-精品体育,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225709/index.m3u8
-精品体育,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225709/2/index.m3u8
-精品体育,http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw2797725038_-2054878207/ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
 
-劲爆体育,http://60.208.16.27:1505/gudou.php?id=jinbaotiyuHD_7000
-劲爆体育,http://140.207.241.3:8080/live/program/live/jbtyhd/4000000/d1.m3u8
-劲爆体育,http://140.207.241.2:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
-劲爆体育,http://angtv.cc/test/gehua.php?id=jbty
-劲爆体育,http://angtv.cc/test/gehua.php?id=jbty2
-劲爆体育,http://ainm.cc/a/play/php/gudou.php?id=jbty
-劲爆体育,http://ainm.cc/a/play/php/gudou.php?id=jbtyhd
-劲爆体育,https://cntv.sbs/tv/v6.php?id=lqhxjcHDH265
-劲爆体育,https://cntv.sbs/live?auth=2307280808&id=jbty
-劲爆体育,https://cntv.sbs/tv?auth=230813&id=jbty
 劲爆体育,http://rihou.cc:61/qiepian/bestv切片.php?id=jbtyhd8m/8000000
 劲爆体育,http://rihou.cc:61/qiepian/bestv.php?id=jbty
-劲爆体育,https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
-劲爆体育,http://zb.ldlive.xyz/zbtv/bestv.php?id=jbtyhd8m/8000000
-劲爆体育,http://zb.ldlive.xyz/zbtv/bestv2.php?id=jbtyhd8m/8000000
-劲爆体育,http://111.40.196.27:443/0000000000001000/2000000002000000008/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000002000000008
-劲爆体育,http://111.40.196.27:443/0000000000001000/5000000002000029972/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000029972
-劲爆体育,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=jinbaotiyuHD_7000
 
-咪咕体育,http://39.137.49.76:8080/PLTV/88888888/224/3221226241/index.m3u8?
-咪咕体育,http://39.137.49.76:8080/PLTV/88888888/224/3221226241/index.m3u8?
-咪咕体育,http://117.136.156.66:80/000000001000/3000000010000005180/index.m3u8
-咪咕体育,http://120.234.220.107:9000/udp/239.20.0.66:3136
-咪咕体育,http://maomao.kandiantv.cn/m3u8.php?/migu/654102378
-咪咕体育,http://r.jdshipin.com/ln4xk
-咪咕体育,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
-咪咕体育,http://[2409:8087:2001:20:2800:0:df6e:eb0f]:80/wh7f454c46tw1758408081_1139282982/ott.mobaibox.com/PLTV/3/224/3221228206/index.m3u8?icpid=3&RTS=1674386168&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
-咪咕体育,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
-咪咕体育,http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
-
-纬来体育,https://pull-f5-spe.ixigua.com/live/YesLiveTV-2aa38a71-bf06-423e-8462-68f6710a31c6/index.m3u8
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
 纬来体育,https://s2.pub/Y-32
 纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
-纬来体育,mitv://generationnexxxt.com:19806/a7f274263670465496c7a48376a39bac
-纬来体育,rtmp://9wv7.mine.nu/sat/tv721
-纬来体育,http://50.7.238.114:8278/videolandsport/playlist.m3u8?tid=MD2D5343800653438006&ct=19234&tsum=1be724fb8246abfedaf2bd088ec98f03
-纬来体育,rtmp://119.81.124.89/sat/tv721
-纬来体育,http://123.51.230.108:18509/http/192.168.1.9:8081/hls/67/809/12_2440494.m3u8
-纬来体育,http://154.216.191.59/ycdz/tw220.php?id=33
-纬来体育,rtmp://219.80.97.77/sat/tv721
-
-ELEVEN体育,mitv://generationnexxxt.com:19806/7a2476594a0b4d03b66470b069243f1f
-ELEVEN体育,https://s2.pub/Y-33
-ELEVEN体育,http://61.221.81.93:8078/hls/25/80/esport.m3u8
-ELEVEN体育,http://cineapp.org:8000/Fernando/Fernando/7451
-ELEVEN体育,https://s2.pub/Y-34
-ELEVEN体育,mitv://generationnexxxt.com:19806/8ee65d8101aa4f84a83d3266c12fd513
-ELEVEN体育,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
-ELEVEN体育,http://198.16.64.10:8278/bsfuji_japan/playlist.m3u8?tid=MEFE1641904216419042&ct=19225&tsum=e49ffeb9a6df295150be1cd8f9b0ea30
-ELEVEN体育,https://epg.pm/stream/480fbbc2ba61ff75864f5aca4b9918c7ddba6fb3306ad56eb2a6482f92fc3301.m3u8
-ELEVEN体育,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
-ELEVEN体育,http://cineapp.org:8000/Fernando/Fernando/7453
-ELEVEN体育,http://cineapp.org:8000/Fernando/Fernando/7456
-
-ELTA体育,http://www.best336699.com:1935/besttv/IR11.stream/playlist.m3u8
-ELTA体育,http://www.best336699.com:1935/besttv/IR11.stream/playlist.m3u8
-ELTA体育,http://www.best336699.com:1935/besttv/IR22.stream/playlist.m3u8
-ELTA体育,http://www.best336699.com:1935/besttv/IR22.stream/playlist.m3u8
-ELTA体育,https://elta.irtblztjwzxz000041.xyz/elta/download/22/index.m3u8
-ELTA体育,http://www.best336699.com:1935/besttv/IR33.stream/playlist.m3u8
-ELTA体育,http://www.best336699.com:1935/besttv/IR33.stream/chunklist_w926913950.m3u8
-ELTA体育,http://www.best336699.com:1935/besttv/IR33.stream/playlist.m3u8
-ELTA体育,http://www.best336699.com:1935/besttv/IR33.stream/chunklist_w926913950.m3u8
-
-体育休闲,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-体育休闲,http://jh.d7g.cn/mg.php?id=tyxxpd
 
 爱尔达体育,mitv://generationnexxxt.com:19806/78f0528dc57342bc9dcf2cd0ba651b77
 爱尔达体育,mitv://generationnexxxt.com:19806/3cae761b10bc4219971774de9fe9e65f
@@ -895,36 +775,9 @@ TVB无线财经体育资讯,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXu
 无线财经体育,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 无线财经体育,http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt
 
-爱体育,http://111.40.196.27:443/0000000000001000/6000000006000290630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000290630
-爱体育,http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
-爱体育,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000060/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000060&livemode=1&stbId=3
 爱体育,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
-爱体育,http://39.135.126.231:6610/000000001001/6000000006000290630/1.m3u8?Contentid=6000000006000290630&livemode=1&stbId=2&channel-id=wasusyt
-爱体育,http://39.135.126.226:6610/000000001001/6000000006000290630/1.m3u8?Contentid=6000000006000290630&livemode=1&stbId=2&channel-id=wasusyt
 
-极速汽车体育,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8
-极速汽车体育,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8?zshangd
-
-Now 体育台,http://flv.mp4cdn.live/aa3314.php?id=22
-Now 体育台,http://pull-tbj1.alivecdn.com/live/RKoiTiaWbKDkRW7aHdACa6D0fFPnXy5g.flv
-
-环宇体育,https://cn-jssz-cm-02-12.bilivideo.com/live-bvc/391274/live_552172307_35103163.flv?expires=1692955349&pt=h5&deadline=1692955349&len=0&oi=3085208287&platform=h5&qn=10000&trid=100030cde07df47247f985292ae32571422d&uipk=100&uipv=100&nbs=1&uparams=cdn,deadline,len,oi,platform,qn,trid,uipk,uipv,nbs&cdn=cn-gotcha01&upsig=7de29aa7f96b576f5c65f5041540661a&sk=220b77a78279e4f150b4142a1f28bd69&p2p_type=0&sl=1&free_type=0&mid=0&sid=cn-jssz-cm-02-12&chash=1&bmt=1&sche=ban&score=3&pp=rtmp&source=onetier&trace=10c9&site=e1ac348ff367fe5d42071d6cbe14874e&order=1
-
-屿风体育,https://www.goodiptv.club/douyu/10329889
-
-体育影视剧,http://jh.d7g.cn/mg.php?id=tyysj
-
-小嘿体育v,https://www.goodiptv.club/bilibili/27686415
-
-博斯运动一,http://154.216.191.59/ycdz/tw220.php?id=3
-
-時尚运动X,http://www.336699.live:1935/blockfour/4gtv-4gtv014.stream/playlist.m3u8
-
-Fashion4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-
-财经体育资讯台,http://r.jdshipin.com/Nr5jq
-
-⚽|足球频道,#genre#
+⚽丨足球频道,#genre#
 风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 风云足球,http://www.tvzb.com/iptv/tvzb82.php?id=fyzq
 风云足球,http://gxdl-lhs.8866.org:85/tsfile/live/1100_1.m3u8?key=txiptv&playlive=1&authid=0
