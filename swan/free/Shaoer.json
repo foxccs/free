@@ -33,7 +33,7 @@
 {"key":"蓝猫动漫","name":"🌊┃蓝猫┃动漫","type":3,"api":"csp_XBPQ","ext":"分类:日漫$1#国漫$2#剧场$3#美漫$4#少儿$5,分类url:https://www.lmfun.vip/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"},
 
 {"key":"js_baby","name":"👶┃宝宝┃合集","type":3,
-"api":"./js/drpy2.min.js",
+"api":"https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
 "searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./js/baby.js"},
 
