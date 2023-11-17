@@ -2,6 +2,7 @@
     {
         "name": "MV",
         "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/foxccs/txt/MV.txt&&&http://3650000.xyz/api/360.php?cid=6
+    }
     {
         "name": "青木",
         "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/txt/青木单线路.txt&&&http://3650000.xyz/api/360.php?cid=6"
