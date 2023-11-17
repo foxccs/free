@@ -358,6 +358,11 @@ CCTV5+ 体育赛事,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890
 
 精品体育,http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
 
+劲爆体育,http://rihou.cc:61/qiepian/bestv切片.php?id=jbtyhd8m/8000000
+
+纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
+
+爱体育,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId
 
 ⚽丨足球频道,#genre#
 风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
