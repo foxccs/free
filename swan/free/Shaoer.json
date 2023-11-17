@@ -45,6 +45,48 @@
 "searchable":0,"quickSearch":0,"filterable":1,
 "ext":"./js/58动漫.js"},
 
+{
+      "key": "csp_json_兔小贝",
+      "name": "兔小贝",
+      "type": 3,
+      "api": "csp_json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/兔小贝.json"
+    },
+
+  {
+      "key": "csp_json_兔小贝2",
+      "name": "兔小贝2",
+      "type": 3,
+      "api": "csp_json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/兔小贝2.json"
+    },
+    {
+      "key": "csp_json_播视童趣",
+      "name": "播视童趣",
+      "type": 3,
+      "api": "csp_json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/播视童趣.json"
+    },
+    {
+      "key": "csp_json_異世界動漫",
+      "name": "異世界動漫",
+      "type": 3,
+      "api": "csp_json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/異世界動漫.json"
+    },
+
 {"key":"学习园地","name":"📚┃学习园地","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/Blixt.json"},
 
 {"key":"学外语","name":"📚┃学外语","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/waiyu.json"},
