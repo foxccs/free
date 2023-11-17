@@ -18,12 +18,29 @@
         
 { "key": "直播转点播", "name": "📺︎┃电视┃直播", "type": 3, "api": "./js/直播转点播2.js", "ext": "./txt/直播.txt"},
 
+{"key":"学习园地","name":"📚┃学习园地","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/Blixt.json"},
 
+{"key":"学外语","name":"📚┃学外语","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/waiyu.json"},
 
+{"key":"小灯塔科学","name":"🌏小灯塔科学","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./json/小灯塔科学.json"},
+
+{"key":"小灯塔地理","name":"🌏小灯塔地理","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./json/小灯塔地理.json"},
+
+{"key":"小灯塔百科","name":"🌏小灯塔百科","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./json/小灯塔百科.json"},
+
+{"key":"小灯塔国学","name":"🌏小灯塔国学","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./json/小灯塔国学.json"},
+
+{"key":"幼儿教育","name":"🅱幼小｜衔接","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./json/哔哩幼小.json"},
+
+{"key":"哔哩小学","name":"🅱小学｜教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./json/哔哩小学.json"},
+
+{"key":"哔哩初中","name":"🅱初中｜教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./json/哔哩初中.json"},
+
+{"key":"哔哩高中","name":"🅱高中｜教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./json/哔哩高中.json"},
+		
 {"key": "ext_live_protocol","name": "微信公众号：Aoki分享","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"changeable": 0},
     
 {"key": "cc","name": "请勿相信视频中任何广告","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0}],
-
 
 "parses":[{"name": "轮询","type": 2,"url": "Sequence"},
 {"name":"聚合并发","type":3,"url":"Demo"},
