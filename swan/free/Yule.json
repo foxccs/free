@@ -223,80 +223,80 @@
             "key": "js_博看听书",
             "name": "📚️┃听书┃博看",
             "type": 3,
-            "api": "./js/drpy2.min.js",
+            "api": "https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js",
             "changeable": 0,
             "style": {
                 "type": "rect",
                 "ratio": 1
             },
-            "ext": "./js/bokan.js"
+            "ext": "https://jihulab.com/foxccs/aoki/-/raw/main/see/bokan.js"
         },
         {
             "key": "js_海洋听书",
             "name": "📚️┃听书┃海洋",
             "type": 3,
-            "api": "./js/drpy2.min.js",
+            "api": "https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js",
             "changeable": 0,
             "style": {
                 "type": "rect",
                 "ratio": 1
             },
-            "ext": "./js/sea.js"
+            "ext": "https://jihulab.com/foxccs/aoki/-/raw/main/see/sea.js"
         },
         {
             "key": "js_六月听书",
             "name": "📚️┃听书┃六月",
             "type": 3,
-            "api": "./js/drpy2.min.js",
+            "api": "https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js",
             "changeable": 0,
             "style": {
                 "type": "rect",
                 "ratio": 1
             },
-            "ext": "./js/6yue.js"
+            "ext": "https://jihulab.com/foxccs/aoki/-/raw/main/see/6yue.js"
         },
         {
             "key": "js_听书网",
             "name": "📚️┃听书┃天天",
             "type": 3,
-            "api": "./js/drpy2.min.js",
+            "api": "https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js",
             "changeable": 0,
             "style": {
                 "type": "rect",
                 "ratio": 1
             },
-            "ext": "./js/tingshu.js"
+            "ext": "https://jihulab.com/foxccs/aoki/-/raw/main/see/tingshu.js"
         },
         {
             "key": "js_有声小说",
             "name": "📚️┃听书┃有声",
             "type": 3,
-            "api": "./js/drpy2.min.js",
+            "api": "https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js",
             "changeable": 0,
             "style": {
                 "type": "rect",
                 "ratio": 1
             },
-            "ext": "./js/yousheng.js"
+            "ext": "https://jihulab.com/foxccs/aoki/-/raw/main/see/yousheng.js"
         },
         {
             "key": "js_中华听书网",
             "name": "📚️┃听书┃中华",
             "type": 3,
-            "api": "./js/drpy2.min.js",
+            "api": "https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js",
             "changeable": 0,
             "style": {
                 "type": "rect",
                 "ratio": 1
             },
-            "ext": "./js/zhonghua.js"
+            "ext": "https://jihulab.com/foxccs/aoki/-/raw/main/see/zhonghua.js"
         },
         {
             "key": "喜马拉雅",
             "name": "📚️┃听书┃xmly",
             "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/ximalaya.js"
+            "api": "https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js",
+            "ext": "https://jihulab.com/foxccs/aoki/-/raw/main/see/ximalaya.js"
         },
         {
             "key": "兴趣健身",
