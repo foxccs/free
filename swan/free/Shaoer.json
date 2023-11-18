@@ -59,8 +59,8 @@
             "key": "dr_兔小贝.fty",
             "name": "👶┃儿童启蒙",
             "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/兔小贝.js",
+            "api": "https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js",
+            "ext": "https://jihulab.com/foxccs/aoki/-/raw/main/see/兔小贝.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
