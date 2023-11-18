@@ -61,6 +61,120 @@
  
 {"key":"维奇","name":"🌊┃维奇┃动漫","type":3,"jar": "./jar/fan.jar","api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/维奇.json"},
 
+    {
+      "key": "次元城",
+      "name": "次元城",
+      "type": 3,
+      "api": "csp_Cycdm",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://app.95189371.cn/ciyuancheng.php/v6/",
+    },
+    {
+      "key": "AGE动漫",
+      "name": "AGE动漫",
+      "type": 3,
+      "api": "./js/apiv47drpy.min.js",
+      "ext": "./js/AGE动漫.js"
+    },
+    {
+      "key": "csp_Dm84_3",
+      "name": "动漫巴士1",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/Dm84.json"
+    },
+    {
+      "key": "58动漫网",
+      "name": "58┃动漫",
+      "type": 3,
+      "api": "./js/apiv107drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "./js/58动漫.js"
+    },
+    {
+      "key": "NT动漫",
+      "name": "NT┃动漫",
+      "type": 3,
+      "api": "./js/apiv107drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "./js/NT动漫.js"
+    },
+    {
+      "key": "妮可动漫",
+      "name": "妮可动漫",
+      "type": 3,
+      "api": "./js/apiv47drpy.min.js",
+      "ext": "./js/妮可动漫.js"
+    },
+    {
+      "key": "去看吧",
+      "name": "去看吧",
+      "type": 3,
+      "api": "./js/apiv47drpy.min.js",
+      "ext": "./js/去看吧.js"
+    },
+    {
+      "key": "nt动漫",
+      "name": "拿铁动漫",
+      "type": 3,
+      "api": "./js/apiv107drpy2.min.js",
+      "ext": "./js/ntdm.js"
+    },
+    {
+      "key": "妮可",
+      "name": "妮可动漫",
+      "type": 3,
+      "api": "./js/apiv107drpy2.min.js",
+      "ext": "./js/妮可动漫.js"
+    },
+    {
+      "key": "anfuns",
+      "name": "ANF动漫",
+      "type": 3,
+      "api": "./js/apiv107drpy2.min.js",
+      "ext": "./js/anfuns.js"
+    },
+    {
+      "key": "怡萱动漫",
+      "name": "怡萱动漫",
+      "type": 3,
+      "api": "./js/apiv107drpy2.min.js",
+      "ext": "./js/怡萱.js"
+    },
+    {
+      "key": "drpy_js_奇米动漫",
+      "name": "动漫 | 奇米动漫[js]",
+      "type": 3,
+      "api": "./js/apiv107drpy2.min.js",
+      "ext": "./js/奇米动漫.js"
+    },
+    {
+      "key": "drpy_js_曲奇动漫",
+      "name": "动漫 | 曲奇动漫[js]",
+      "type": 3,
+      "api": "./js/apiv107drpy2.min.js",
+      "ext": "./js/曲奇动漫.js"
+    },
+    {
+      "key": "异世界",
+      "name": "异世界",
+      "type": 3,
+      "api": "./js/apiv47drpy.min.js",
+      "ext": "./js/异世界.js"
+    },
+
+
 {"key": "ext_live_protocol","name": "微信公众号：Aoki分享","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"changeable": 0},
     
 {"key": "cc","name": "请勿相信视频中任何广告","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0}],
