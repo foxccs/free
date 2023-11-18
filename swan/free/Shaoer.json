@@ -23,6 +23,199 @@
 {"key":"js_baby","name":"👶┃宝宝┃合集","type":3,"api":"https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
 "searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/baby.js"},
 
+        {
+            "key": "csp_XYQHiker_兔小贝",
+            "name": "♻兔小贝1",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/兔小贝.json"
+        },
+        {
+            "key": "csp_XYQHiker_兔小贝2",
+            "name": "♻兔小贝2",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/兔小贝2.json"
+        },
+        {
+            "key": "csp_XYQHiker_播视童趣",
+            "name": "♻播视童趣",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/播视童趣.json"
+        },
+       {
+            "key": "dr_兔小贝.fty",
+            "name": "♻儿童┃启蒙",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/兔小贝.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+ 
+        {
+            "key": "幼儿启蒙",
+            "name": "♻幼儿启蒙",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/幼儿启蒙.json"
+        },
+      
+        {
+            "key": "幼小衔接",
+            "name": "♻幼小衔接",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/幼小衔接.json"
+        },
+       {
+            "key": "少儿教育.fty",
+            "name": "♻少儿┃教育",
+            "type": 3,
+            "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": "./json/少儿教育.json"
+        },
+
+        {
+            "key": "儿童拼音",
+            "name": "♻儿童拼音",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/儿童拼音.json"
+        },
+        {
+            "key": "儿童识字",
+            "name": "♻儿童识字",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/儿童识字.json"
+        },
+        {
+            "key": "儿童英语",
+            "name": "♻儿童英语",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/儿童英语.json"
+        },
+        {
+            "key": "儿童硬笔",
+            "name": "♻儿童硬笔",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/儿童硬笔.json"
+        },
+        {
+            "key": "儿童思维",
+            "name": "♻儿童思维",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/儿童思维.json"
+        },
+        {
+            "key": "儿童口才",
+            "name": "♻儿童口才",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/儿童口才.json"
+        },
+        {
+            "key": "儿童编程",
+            "name": "♻儿童编程",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/儿童编程.json"
+        },
+        {
+            "key": "儿童武术",
+            "name": "♻儿童武术",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/儿童武术.json"
+        },
+        {
+            "key": "兴趣培养",
+            "name": "♻兴趣培养",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/兴趣培养.json"
+        },
+        {
+            "key": "益智",
+            "name": "♻益智┃动画",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "./json/益智动画.json"
+        },
+        {
+            "key": "小灯塔人文",
+            "name": "♻小灯塔人文",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/小灯塔人文.json"
+        },
+ 
+
 {"key":"学习园地","name":"📚┃学习园地","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/Blixt.json"},
 
 {"key":"学外语","name":"📚┃学外语","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/waiyu.json"},
