@@ -41,7 +41,7 @@
 
 {"key": "AGE动漫","name": "🍀┃AGE┃动漫","type": 3,"api": "./js/apiv47drpy.min.js","ext": "./js/AGE动漫.js"},
 
-{"key": "csp_Dm84_3","name": "🐡┃动漫┃巴士1","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/Dm84.json"},
+{"key": "csp_Dm84_3","name": "🐡┃动漫┃巴适","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/Dm84.json"},
 
 {"key": "妮可动漫","name": "🦕┃妮可┃动漫","type": 3,"api": "./js/apiv47drpy.min.js","ext": "https://jihulab.com/foxccs/aoki/-/raw/main/see/妮可动漫.js"},
 
