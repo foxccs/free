@@ -20,10 +20,8 @@
 
 {"key":"Aid","name":"🚑┃急救┃教学","type":3,"jar": "./jar/fan.jar","api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8}},
 		
-{"key":"js_baby","name":"👶┃宝宝┃合集","type":3,
-"api":"https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
-"searchable":1,"quickSearch":1,"filterable":1,
-"ext":"./js/baby.js"},
+{"key":"js_baby","name":"👶┃宝宝┃合集","type":3,"api":"https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
+"searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/baby.js"},
 
 {"key":"学习园地","name":"📚┃学习园地","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/Blixt.json"},
 
