@@ -61,7 +61,7 @@
  
 {"key":"去看吧","name":"去看动漫","type":3,"jar": "./jar/fan.jar","api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/去看吧.json"},
          
-{"key":"维奇","name":"维奇动漫","type":3,"jar": "./jar/fan.jar","api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/维奇.json"}，
+{"key":"维奇","name":"维奇动漫","type":3,"jar": "./jar/fan.jar","api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/维奇.json"},
 
 {"key": "ext_live_protocol","name": "微信公众号：Aoki分享","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"changeable": 0},
     
