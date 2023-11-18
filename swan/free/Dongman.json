@@ -10,41 +10,65 @@
 	    }],
 
 	"sites":[
-   {
-            "key": "py_cctv",
-            "name": "🐦CCTV🎈青木整理🎈",
-            "type": 3,
-            "api": "py_cctv",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "./lib/py_cctv.py"
-        },
-        {
-            "key": "m1905",
-            "name": "CCTV┃电影🎈",
-            "type": 3,
-            "api": "py_cctv",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "./lib/m1905.py"
-        },
-        {
-            "key": "央视经典",
-            "name": "CCTV┃经典🎈",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/哔哩经典.json"
-        },
 
+{  "key": "py_cctv", "name": "🐦CCTV🎈青木整理🎈", "type": 3,  "api": "py_cctv",  "searchable": 0,  "quickSearch": 0,  "filterable": 0,  "ext": "./lib/py_cctv.py"},
+
+{  "key": "m1905",  "name": "CCTV┃电影🎈",  "type": 3,  "api": "py_cctv",  "searchable": 0,  "quickSearch": 0,  "filterable": 0,  "ext": "./lib/m1905.py"},
+
+{  "key": "央视经典",  "name": "CCTV┃经典🎈",  "type": 3,  "api": "csp_Bili",  "searchable": 0,  "quickSearch": 1,  "filterable": 1,  "ext": "./json/哔哩经典.json"},
+		
+{"key":"csp_Dm84","name":"🚌┃动漫┃巴士","type":3,"jar": "./jar/fan.jar","api":"csp_Dm84","searchable":1,"quickSearch":1,"changeable":1},
+
+{"key":"csp_Ying","name":"💮┃樱花┃动漫","type":3,"jar": "./jar/fan.jar","api":"csp_Ying","searchable":1,"quickSearch":1,"changeable":1},
+
+{"key":"csp_Anime1","name":"🐾┃日本┃动漫","type":3,"jar": "./jar/fan.jar","api":"csp_Anime1","searchable":1,"quickSearch":1,"changeable":1},
+
+{"key":"Aid","name":"🚑┃急救┃教学","type":3,"jar": "./jar/fan.jar","api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8}},
+
+{"key":"csp_Anime1","name":"🌸┃动漫┃系列","type":3,"jar": "./jar/fan.jar","api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"蓝猫动漫","name":"🌊┃蓝猫┃动漫","type":3,"api":"csp_XBPQ","ext":"分类:日漫$1#国漫$2#剧场$3#美漫$4#少儿$5,
+	分类url:https://www.lmfun.vip/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"},
+
+{"key":"js58","name":"👩‍🎨┃五八┃动漫","type":3,"api":"https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./js/58动漫.js"},
+
+{"key": "动漫直链","name": "💧┃动漫┃直链","type": 3,"jar": "./jar/fan.jar", "api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/动漫直链.json"},
+  
+{"key":"去看吧","name":"🐬┃去看┃动漫","type":3,"jar": "./jar/fan.jar","api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/去看吧.json"},
+ 
+{"key":"维奇","name":"🌊┃维奇┃动漫","type":3,"jar": "./jar/fan.jar","api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/维奇.json"},
+
+{"key": "次元城", "name": "次元城","type": 3,"api": "csp_Cycdm","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://app.95189371.cn/ciyuancheng.php/v6/",},
+
+{"key": "AGE动漫","name": "AGE动漫","type": 3,"api": "./js/apiv47drpy.min.js","ext": "./js/AGE动漫.js"},
+
+{"key": "csp_Dm84_3","name": "动漫巴士1","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/Dm84.json"},
+
+{"key": "58动漫网","name": "58┃动漫","type": 3,"api": "./js/apiv107drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1,"ext": "./js/58动漫.js"},
+
+{"key": "NT动漫","name": "NT┃动漫","type": 3,"api": "./js/apiv107drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1,"ext": "./js/NT动漫.js" },
+
+{"key": "妮可动漫","name": "妮可动漫","type": 3,"api": "./js/apiv47drpy.min.js","ext": "./js/妮可动漫.js"},
+
+{"key": "去看吧","name": "去看吧","type": 3,"api": "./js/apiv47drpy.min.js","ext": "./js/去看吧.js"},
+
+{"key": "nt动漫","name": "拿铁动漫","type": 3,"api": "./js/apiv107drpy2.min.js","ext": "./js/ntdm.js"},
+
+{"key": "妮可","name": "妮可动漫","type": 3,"api": "./js/apiv107drpy2.min.js","ext": "./js/妮可动漫.js"},
+
+{"key": "anfuns","name": "ANF动漫","type": 3,"api": "./js/apiv107drpy2.min.js","ext": "./js/anfuns.js"},
+
+{"key": "怡萱动漫","name": "怡萱动漫","type": 3,"api": "./js/apiv107drpy2.min.js","ext": "./js/怡萱.js"},
+
+{"key": "drpy_js_奇米动漫","name": "动漫 | 奇米动漫[js]","type": 3,"api": "./js/apiv107drpy2.min.js","ext": "./js/奇米动漫.js"},
+
+{"key": "drpy_js_曲奇动漫","name": "动漫 | 曲奇动漫[js]","type": 3,"api": "./js/apiv107drpy2.min.js","ext": "./js/曲奇动漫.js"},
+
+{"key": "异世界","name": "异世界","type": 3,"api": "./js/apiv47drpy.min.js","ext": "./js/异世界.js"},
+		
 {"key": "ext_live_protocol","name": "微信公众号：Aoki分享","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"changeable": 0},
     
 {"key": "cc","name": "请勿相信视频中任何广告","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0}],
-
 
 "parses":[{"name": "轮询","type": 2,"url": "Sequence"},
 {"name":"聚合并发","type":3,"url":"Demo"},
