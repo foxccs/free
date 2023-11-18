@@ -57,11 +57,7 @@
 
 {"key": "妮可","name": "妮可动漫","type": 3,"api": "./js/apiv107drpy2.min.js","ext": "./js/妮可动漫.js"},
 
-{"key": "anfuns","name": "ANF动漫","type": 3,"api": "./js/apiv107drpy2.min.js","ext": "./js/anfuns.js"},
-
-{"key": "怡萱动漫","name": "怡萱动漫","type": 3,"api": "./js/apiv107drpy2.min.js","ext": "./js/怡萱.js"},
-
-{"key": "drpy_js_奇米动漫","name": "动漫 | 奇米动漫[js]","type": 3,"api": "./js/apiv107drpy2.min.js","ext": "./js/奇米动漫.js"},
+{"key": "anfuns","name": "ANF动漫","type": 3,"jar": "./jar/fan.jar","api": "./js/apiv107drpy2.min.js","ext": "./js/anfuns.js"},
 
 {"key": "drpy_js_曲奇动漫","name": "动漫 | 曲奇动漫[js]","type": 3,"api": "./js/apiv107drpy2.min.js","ext": "./js/曲奇动漫.js"},
 
