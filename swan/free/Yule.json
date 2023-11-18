@@ -52,21 +52,21 @@
             "key": "js_酷狗MV",
             "name": "🎻┃酷狗｜MV",
             "type": 3,
-            "api": "./js/drpy2.min.js",
+            "api": "https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./js/kugouMV.js"
+            "ext": "https://jihulab.com/foxccs/aoki/-/raw/main/see/kugouMV.js"
         },
         {
             "key": "js_a8音乐",
             "name": "🎸┃A8｜音乐",
             "type": 3,
-            "api": "./js/drpy2.min.js",
+            "api": "https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./js/a8yy.js"
+            "ext": "https://jihulab.com/foxccs/aoki/-/raw/main/see/a8yy.js"
         },
         {
             "key": "csp_xpath_kuqimv",
