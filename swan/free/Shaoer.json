@@ -25,7 +25,7 @@
 
         {
             "key": "csp_XYQHiker_兔小贝",
-            "name": "♻兔小贝1",
+            "name": "🐇兔小贝1",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -35,7 +35,7 @@
         },
         {
             "key": "csp_XYQHiker_兔小贝2",
-            "name": "♻兔小贝2",
+            "name": "🐇兔小贝2",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -55,7 +55,7 @@
         },
        {
             "key": "dr_兔小贝.fty",
-            "name": "♻儿童┃启蒙",
+            "name": "👶儿童┃启蒙",
             "type": 3,
             "api": "./js/drpy2.min.js",
             "ext": "./js/兔小贝.js",
@@ -70,7 +70,7 @@
  
         {
             "key": "幼儿启蒙",
-            "name": "♻幼儿启蒙",
+            "name": "👶幼儿启蒙",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -81,7 +81,7 @@
       
         {
             "key": "幼小衔接",
-            "name": "♻幼小衔接",
+            "name": "👶幼小衔接",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -91,7 +91,7 @@
         },
        {
             "key": "少儿教育.fty",
-            "name": "♻少儿┃教育",
+            "name": "👶少儿┃教育",
             "type": 3,
             "api": "csp_Bili",
             "style": {
@@ -106,7 +106,7 @@
 
         {
             "key": "儿童拼音",
-            "name": "♻儿童拼音",
+            "name": "👶儿童拼音",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -116,7 +116,7 @@
         },
         {
             "key": "儿童识字",
-            "name": "♻儿童识字",
+            "name": "👶儿童识字",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -126,7 +126,7 @@
         },
         {
             "key": "儿童英语",
-            "name": "♻儿童英语",
+            "name": "👶儿童英语",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -136,7 +136,7 @@
         },
         {
             "key": "儿童硬笔",
-            "name": "♻儿童硬笔",
+            "name": "👶儿童硬笔",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -146,7 +146,7 @@
         },
         {
             "key": "儿童思维",
-            "name": "♻儿童思维",
+            "name": "👶儿童思维",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -156,7 +156,7 @@
         },
         {
             "key": "儿童口才",
-            "name": "♻儿童口才",
+            "name": "👶儿童口才",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -166,7 +166,7 @@
         },
         {
             "key": "儿童编程",
-            "name": "♻儿童编程",
+            "name": "👶儿童编程",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -176,7 +176,7 @@
         },
         {
             "key": "儿童武术",
-            "name": "♻儿童武术",
+            "name": "👶儿童武术",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -186,7 +186,7 @@
         },
         {
             "key": "兴趣培养",
-            "name": "♻兴趣培养",
+            "name": "🏖️兴趣培养",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -196,7 +196,7 @@
         },
         {
             "key": "益智",
-            "name": "♻益智┃动画",
+            "name": "🦜益智┃动画",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -204,22 +204,13 @@
             "filterable": 0,
             "ext": "./json/益智动画.json"
         },
-        {
-            "key": "小灯塔人文",
-            "name": "♻小灯塔人文",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/小灯塔人文.json"
-        },
- 
 
 {"key":"学习园地","name":"📚┃学习园地","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/Blixt.json"},
 
 {"key":"学外语","name":"📚┃学外语","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/waiyu.json"},
-
+		
+{"key": "小灯塔人文", "name": "🌏小灯塔人文", "type": 3, "api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "./json/小灯塔人文.json"},
+		
 {"key":"小灯塔科学","name":"🌏小灯塔科学","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./json/小灯塔科学.json"},
 
 {"key":"小灯塔地理","name":"🌏小灯塔地理","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./json/小灯塔地理.json"},
