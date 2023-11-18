@@ -31,7 +31,7 @@
             "api": "./js/直播转点播2.js",
             "ext": "./txt/直播.txt"
         },
-        {"key":"好趣网","name":"📺┃电视┃频道","type":3,"api":"https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js","ext":"https://jihulab.com/foxccs/aoki/-/raw/main/see/%E5%A5%BD%E8%B6%A3%E7%BD%91.js"},
+        {"key":"好趣网","name":"📺┃电视┃频道","type":3,"api":"","ext":"https://jihulab.com/foxccs/aoki/-/raw/main/see/%E5%A5%BD%E8%B6%A3%E7%BD%91.js"},
         {
             "key": "py_cctv",
             "name": "CCTV┃综合🎈",
@@ -257,22 +257,22 @@
       "key": "搜狗2",
       "name": "🐕搜狗(官)",
       "type": 3,
-      "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/sougou.js"
+      "api": "https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js",
+      "ext": "https://jihulab.com/foxccs/aoki/-/raw/main/see/sougou.js"
     },
     {
       "key": "腾讯2",
       "name": "🐧腾讯(官)",
       "type": 3,
-      "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/tengxun.js"
+      "api": "https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js",
+      "ext": "https://jihulab.com/foxccs/aoki/-/raw/main/see/tengxun.js"
     },
     {
       "key": "爱奇异",
       "name": "🥝爱奇艺(官)",
       "type": 3,
-      "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/iqy.js"
+      "api": "https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js",
+      "ext": "https://jihulab.com/foxccs/aoki/-/raw/main/see/iqy.js"
     },
         {
             "key": "腾讯资源",
