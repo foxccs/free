@@ -5,7 +5,7 @@
         {
             "name": "live",
             "type": 0,
-            "url": "./txt/青木.txt",
+            "url": "Li90eHQv6Z2S5pyoLnR4dA==",
             "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/bingimg/logo/{name}.png"
         }
