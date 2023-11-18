@@ -619,24 +619,16 @@
         "欧美综艺"
       ]
     },
-    {
-            "key": "ext_live_protocol",
-            "name": "微信公众号：Aoki分享",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
-            "key": "cc",
-            "name": "请勿相信视频中任何广告",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 0,
-            "quickSearch": 0
-        }
+
+{"key": "ext_live_protocol","name": "🎈微信公众号：Aoki分享🎈", "type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"changeable": 0},
+        
+{"key": "cc","name": "请勿相信视频中任何广告","type": 3,"api": "csp_XPath", "searchable": 0, "quickSearch": 0},
+
+{"key": "提示","name": "🎈QQ频道：青木分享🎈","type": 3,"api": "360","searchable": 1,"quickSearch": 1,"filterable": 1},
+
+{"key": "说明","name": "🎈每月一更🎈","type": 3,"api": "360","searchable": 1,"quickSearch": 1,"filterable": 1}
     ],
+    
     "parses": [
         {
             "name": "轮询",
