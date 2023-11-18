@@ -222,7 +222,7 @@
 
 {"key":"学习园地","name":"📚┃学习园地","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/Blixt.json"},
 
-{"key":"学外语","name":"📚┃学外语","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/waiyu.json"},
+{"key":"学外语","name":"📚┃学习外语","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/waiyu.json"},
 
 {"key": "兴趣培养","name": "🏖️┃兴趣培养","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "./json/兴趣培养.json"},
 		
