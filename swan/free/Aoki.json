@@ -17,16 +17,16 @@
             "name": "🍃青木🌷少儿"
         },
         {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/Dongman.json",
+            "name": "🍃青木🌷动漫"
+        }
+        {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/Caiji.json",
             "name": "🍃青木🌷采集"
         },
         {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/Sousuo.json",
             "name": "🍃青木🌷搜索"
-        },
-        {
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/Dongman.json",
-            "name": "🍃青木🌷动漫"
         }
     ]
 }
