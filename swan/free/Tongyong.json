@@ -238,7 +238,7 @@
     }, 
     {
       "key": "泰泰",
-      "name": "🪿鸾鸟",
+      "name": "🐤鸾鸟",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -248,10 +248,11 @@
     },
     {
       "key": "drpy_js_优酷1",
-      "name": "优酷(官)",
+      "name": "🐇优酷(官)",
       "type": 3,
-      "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/youku.js"
+      "api": "https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js",
+        
+      "ext": "https://jihulab.com/foxccs/aoki/-/raw/main/see/youku.js"
     },
     {
       "key": "搜狗2",
