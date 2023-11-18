@@ -13,7 +13,7 @@
     "sites": [
         {
             "key": "豆豆",
-            "name": "🐦QQ群：915945323",
+            "name": "🐦公众号：Aoki分享🎈",
             "type": 3,
             "jar": "./jar/fan.jar",
             "api": "csp_DouDou",
@@ -620,13 +620,13 @@
       ]
     },
 
-{"key": "ext_live_protocol","name": "微信公众号：Aoki分享", "type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"changeable": 0},
+{"key": "ext_live_protocol","name": "🎈QQ群：915945323", "type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"changeable": 0},
         
 {"key": "cc","name": "请勿相信视频中任何广告","type": 3,"api": "csp_XPath", "searchable": 0, "quickSearch": 0},
 
-{"key": "提示","name": "🎈QQ频道：青木分享🎈","type": 3,"api": "360","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "提示","name": "🎈QQ频道：青木分享","type": 3,"api": "360","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key": "说明","name": "🎈更新：11月18号🎈","type": 3,"api": "360","searchable": 1,"quickSearch": 1,"filterable": 1}
+{"key": "说明","name": "🎈更新：11月18号","type": 3,"api": "360","searchable": 1,"quickSearch": 1,"filterable": 1}
     ],
     
     "parses": [
