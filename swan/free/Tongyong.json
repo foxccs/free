@@ -5,7 +5,7 @@
         {
             "name": "live",
             "type": 0,
-            "url": "Li90eHQv6Z2S5pyoLnR4dA==",
+            "url": "aHR0cHM6Ly9naHByb3h5Lm5ldC9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vZm94Y2NzL2ZyZWUvbWFpbi9zd2FuL2ZyZWUvdHh0LyVFOSU5RCU5MiVFNiU5QyVBOC50eHQ=",
             "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/bingimg/logo/{name}.png"
         }
