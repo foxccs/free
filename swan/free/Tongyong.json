@@ -258,7 +258,7 @@
       "name": "🐕搜狗(官)",
       "type": 3,
       "api": "https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js",
-      "ext": "https://jihulab.com/foxccs/aoki/-/raw/main/see/sougou.js"
+      "ext": "https://jihulab.com/foxccs/aoki/-/raw/main/see/caigou.js"
     },
     {
       "key": "腾讯2",
@@ -274,6 +274,8 @@
       "api": "https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js",
       "ext": "https://jihulab.com/foxccs/aoki/-/raw/main/see/iqy.js"
     },
+{"key":"芒果","name":"🎦芒果(官)","type":3,"api":"https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js","ext":"https://jihulab.com/foxccs/aoki/-/raw/main/see/mangguo.js"},
+{"key":"sohu","name":"🎦搜狐(官)","type":1,"api":"https://tvbox-1-g5221611.deta.app/vod/sohu","searchable":1,"quickSearch":1,"playUrl":"parse:超级7"},
         {
             "key": "腾讯资源",
             "name": "️🐧腾讯",
