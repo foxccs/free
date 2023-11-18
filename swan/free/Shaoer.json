@@ -18,32 +18,12 @@
         
 { "key": "直播转点播", "name": "📺︎┃电视┃直播", "type": 3, "api": "./js/直播转点播2.js", "ext": "./txt/直播.txt"},
 
-{"key":"csp_Dm84","name":"🚌┃动漫┃巴士","type":3,"jar": "./jar/fan.jar","api":"csp_Dm84","searchable":1,"quickSearch":1,"changeable":1},
-
-{"key":"csp_Ying","name":"💮┃樱花┃动漫","type":3,"jar": "./jar/fan.jar","api":"csp_Ying","searchable":1,"quickSearch":1,"changeable":1},
-
-{"key":"csp_Anime1","name":"🐾┃日本┃动漫","type":3,"jar": "./jar/fan.jar","api":"csp_Anime1","searchable":1,"quickSearch":1,"changeable":1},
-
 {"key":"Aid","name":"🚑┃急救┃教学","type":3,"jar": "./jar/fan.jar","api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8}},
-
-{"key":"csp_Anime1","name":"🌸┃动漫┃系列","type":3,"jar": "./jar/fan.jar","api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"蓝猫动漫","name":"🌊┃蓝猫┃动漫","type":3,"api":"csp_XBPQ","ext":"分类:日漫$1#国漫$2#剧场$3#美漫$4#少儿$5,分类url:https://www.lmfun.vip/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"},
-
+		
 {"key":"js_baby","name":"👶┃宝宝┃合集","type":3,
 "api":"https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
 "searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./js/baby.js"},
-
-{"key":"js_童趣","name":"🧗‍┃童趣┃搜视","type":3,
-"api":"https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
-"searchable":1,"quickSearch":1,"filterable":1,
-"ext":"./js/tongqu.js"},
-
-{"key":"js58","name":"👩‍🎨┃五八┃动漫","type":3,
-"api":"https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
-"searchable":0,"quickSearch":0,"filterable":1,
-"ext":"./js/58动漫.js"},
 
 {"key":"学习园地","name":"📚┃学习园地","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/Blixt.json"},
 
