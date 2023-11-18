@@ -2,7 +2,7 @@
     "urls": [
         {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/Tongyong.json",
-            "name": "🍃青木🌷通用主线"
+            "name": "🍃青木🌷主线"
         },
         {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/Yule.json",
@@ -15,15 +15,15 @@
         {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/Shaoer.json",
             "name": "🍃青木🌷少儿"
-        },
+        }, 
         {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/Dongman.json",
             "name": "🍃青木🌷动漫"
-        }
+        }, 	
         {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/Caiji.json",
             "name": "🍃青木🌷采集"
-        },
+        },                      
         {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/Sousuo.json",
             "name": "🍃青木🌷搜索"
