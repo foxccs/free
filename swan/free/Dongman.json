@@ -63,11 +63,11 @@
     
 {"key":"csp_Ying","name":"樱花动漫","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key": "动漫直链","name": "动漫┃直链","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./lib/动漫直链.json"},
+{"key": "动漫直链","name": "动漫┃直链","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/动漫直链.json"},
  
-{"key":"去看吧","name":"去看动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/去看吧.json"},
+{"key":"去看吧","name":"去看动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/去看吧.json"},
          
-{"key":"维奇","name":"维奇动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/维奇.json"}，
+{"key":"维奇","name":"维奇动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/维奇.json"}，
 
 {"key": "ext_live_protocol","name": "微信公众号：Aoki分享","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"changeable": 0},
     
