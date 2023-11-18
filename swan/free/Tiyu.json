@@ -191,6 +191,38 @@
             "ext": "./json/斗鱼直播.json"
         },
         {
+            "key": "棋牌",
+            "name": " 💔吾爱棋牌",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "pwd": "50905d7b2216bfeccb5b41016357176b",
+            "ext": "./lib/吾爱棋牌0806.m3u"
+        },
+        {
+            "key": "户外",
+            "name": "💛吾爱户外",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./json/吾爱户外.json"
+        },
+        {
+            "key": "足球",
+            "name": " 💕吾爱足球",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "http://52bsj.vip:81/api/v3/file/get/780/%E7%90%83%E6%98%9F-%E5%93%94%E5%93%A90721.json?sign=VMaEC4RO2aBcskY1fgOuhEtfG88uQpiwN1DyjYZGPiE%3D%3A0",
+            "spider": "http://52bsj.vip:81/api/v3/file/get/786/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+        },
+        {
             "key": "ext_live_protocol",
             "name": "公众号：Aoki分享",
             "type": 3,
