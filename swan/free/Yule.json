@@ -211,13 +211,13 @@
             "key": "js_i275听书",
             "name": "📚️┃听书┃i275",
             "type": 3,
-            "api": "./js/drpy2.min.js",
+            "api": "https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js",
             "changeable": 0,
             "style": {
                 "type": "rect",
                 "ratio": 1
             },
-            "ext": "./js/i275.js"
+            "ext": "https://jihulab.com/foxccs/aoki/-/raw/main/see/i275.js"
         },
         {
             "key": "js_博看听书",
