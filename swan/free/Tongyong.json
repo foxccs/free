@@ -31,7 +31,7 @@
             "api": "./js/直播转点播2.js",
             "ext": "./txt/直播.txt"
         },
-        {"key":"好趣网","name":"📺┃电视┃频道","type":3,"api":"https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js","ext":"./js/好趣网.js"},
+        {"key":"好趣网","name":"📺┃电视┃频道","type":3,"api":"./js/drpy2.min.js","ext":"./js/好趣网.js"},
         {
             "key": "py_cctv",
             "name": "CCTV┃综合🎈",
