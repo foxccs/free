@@ -620,7 +620,7 @@
       ]
     },
 
-{"key": "ext_live_protocol","name": "🎈微信公众号：Aoki分享🎈", "type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"changeable": 0},
+{"key": "ext_live_protocol","name": "微信公众号：Aoki分享", "type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"changeable": 0},
         
 {"key": "cc","name": "请勿相信视频中任何广告","type": 3,"api": "csp_XPath", "searchable": 0, "quickSearch": 0},
 
