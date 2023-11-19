@@ -805,7 +805,7 @@
       "name": "🐕搜狗(官)",
       "type": 3,
       "api": "https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js",
-      "ext": "https://jihulab.com/foxccs/aoki/-/raw/main/see/caigou.js"
+      "ext": "https://gitee.com/foxcccs/free/raw/master/see/sougou.js"
     },
     {
       "key": "腾讯2",
