@@ -72,6 +72,15 @@
       "filterable": 1,
       "ext": "./json/吾爱解说.json"
     },
+     {
+          "key": "csp_Yj1211",
+          "name": "📽️┃在线直播",
+          "type": 3,
+          "api": "csp_Yj1211",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1
+        },
         {
           "key": "csp_ttkx",
           "name": "👽玩偶┃网盘",
