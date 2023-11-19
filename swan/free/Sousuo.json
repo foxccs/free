@@ -89,17 +89,17 @@
             "filterable": 1,
             "ext": "https://ownjpykxttjzuhy.jiesiwa.com"
         },
-        {
-            "key": "小纸条_cli",
-            "name": "🔍小纸条",
-            "type": 4,
-            "api": "http://home.jundie.top:9520/spider/cli_gitCafe",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$fanty$$$qqq111",
-            "timeout": 30
-        },
+
+    {
+      "key": "Gitcafe",
+      "name": "🔍小纸条",
+      "type": 3,
+      "api": "csp_Paper",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "b4242bebe6f144d3aa6a2cd842ac65aa"
+    },
         {
             "key": "YiSo",
             "name": "🔎易搜",
