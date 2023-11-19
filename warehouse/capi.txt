@@ -8,67 +8,67 @@
         },
         {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/aoki.json",
-            "name": "🌿青木 | 青木线路"
+            "name": "🍃青木 | 青木线路"
         },                      
        {
             "url": "http://yydsys.top/duo",
-            "name": "🌿青木 | 多多线路"
+            "name": "🍃青木 | 多多线路"
         },
         {
             "url": "http://rihou.vip:88/荷城茶秀",
-            "name": "🌿青木 | 荷城茶秀"
+            "name": "🍃青木 | 荷城茶秀"
         },
         {
             "url": "http://饭太硬.top/tv",
-            "name": "🌿青木 | 饭  太 硬"
+            "name": "🍃青木 | 饭  太 硬"
         },                      
         {
             "url": "http://肥猫.love",
-            "name": "🌿青木 | 肥猫线路"
+            "name": "🍃青木 | 肥猫线路"
         },  
         {
             "url": "https://raw.gitmirror.com/xmbjm/shiguang/main/shiguangdx.json",
-            "name": "🌿青木| 熊猫线路"
+            "name": "🍃青木| 熊猫线路"
         },                                                                                    
         {
             "url": "http://111.67.195.139/yydf/yyffjk.json",
-            "name": "🌿青木 | 业余打发"
+            "name": "🍃青木 | 业余打发"
         },                   
         {
             "url": "http://xhww.fun:63/小米/DEMO.json",
-            "name": "🌿青木 | 小米线路"
+            "name": "🍃青木 | 小米线路"
         },    
         {
             "url": "https://tvbox.cainisi.cf",
-            "name": "🌿青木 | 菜  妮 丝"
+            "name": "🍃青木 | 菜  妮 丝"
         },             
         {
             "url": "http://小盒酷玩.fun:66/禁止贩卖",
-            "name": "🌿青木 | 小盒酷玩"
+            "name": "🍃青木 | 小盒酷玩"
         },   
         {
             "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name": "🌿青木 | 南风线路"
+            "name": "🍃青木 | 南风线路"
         },   
         {
             "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
-            "name": "🌿青木 | 分  享 者"
+            "name": "🍃青木 | 分  享 者"
         },
         {
             "url": "https://xhdwc.tk/0",
-            "name": "🌿青木 | dxawi0"
+            "name": "🍃青木 | dxawi0"
         },
         {
             "url": "https://raw.liucn.cc/box/m.json",
-            "name": "🌿青木 | 老  刘 备"
+            "name": "🍃青木 | 老  刘 备"
         },
         {
             "url": "http://cdn.qiaoji8.com/tvbox.json",
-            "name": "🌿青木 | 巧记线路"
+            "name": "🍃青木 | 巧记线路"
         },                      
         {
             "url": "https://weixine.net/ysc.json",
-            "name": "🌿青木 | 运  输 车"
+            "name": "🍃青木 | 运  输 车"
         }
     ]
 }
