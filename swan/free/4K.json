@@ -28,6 +28,7 @@
       "key": "Gitcafe",
       "name": "🔖阿里|小纸条",
       "type": 3,
+      "name": "./jar/fan.jar",
       "api": "csp_Paper",
       "searchable": 1,
       "quickSearch": 1,
