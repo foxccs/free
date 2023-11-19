@@ -6,7 +6,8 @@
 {"sourceName":"奇  奇仓库","sourceUrl":"https://cn.kstore.space/download/2904/123.txt"},
 {"sourceName":"业  余仓库","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/duocang.json"},
 {"sourceName":"熊猫不叫猫","sourceUrl":"https://ghproxy.net/https://github.com/xmbjm/xmbjm/blob/main/xmbjmdc.json"}
-]}
+]
+}
 
 
 
