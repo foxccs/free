@@ -107,8 +107,8 @@
       "name": "BT丨超清",
       "playerType": 1,
       "type": 3,
-      "api": "http://106.52.241.21:99/JSS/lib/drpy2.min.js",
-      "ext": "http://106.52.241.21:99/JSS/js/两个BT.js"
+      "api": "https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js",
+      "ext": "https://jihulab.com/foxccs/aoki/-/raw/main/see/%E4%B8%A4%E4%B8%AABT.js"
     },
     {
       "key": "tudou",
@@ -147,7 +147,7 @@
     },
     {
       "key": "app_轻简",
-      "name": "蓝光-3",
+      "name": "轻简丨蓝光",
       "playerType": 1,
       "type": 1,
       "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
