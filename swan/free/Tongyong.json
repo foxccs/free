@@ -81,9 +81,6 @@
           "quickSearch": 1,
           "filterable": 1
         },
-{"key":"虎牙直播","name":"🐯虎牙","type":3,"api":"https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/foxcccs/free/raw/master/see/huyazhibo.js"},
-{"key":"斗鱼直播","name":"🐟斗鱼","type":3,"api":"https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/foxcccs/free/raw/master/see/douyu.js"},
-
         {
           "key": "csp_ttkx",
           "name": "👽玩偶┃网盘",
