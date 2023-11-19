@@ -83,8 +83,9 @@
         },
           {
       "key": "FirstAid",
-      "name": "🚑┃急救┃教学♻",
+      "name": "🚑┃急救┃教学",
       "type": 3,
+      "jar": "./jar/fan.jar",
       "api": "csp_FirstAid",
       "searchable": 0,
       "quickSearch": 0,
