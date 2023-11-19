@@ -7,7 +7,7 @@
             "name": "🔔切换线路后务必刷新接口"
         },
         {
-            "url": "https://raw.gitmirror.com/foxccs/free/main/foxccs/foxccs.json",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/aoki.json",
             "name": "🌿青木 | 青木线路"
         },                      
        {
