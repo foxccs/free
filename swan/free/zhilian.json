@@ -11,11 +11,37 @@
         }
     ],
     "sites": [
- 
- 
-   
- 
-     
+     {
+      "key": "豆豆",
+      "name": "🌕公众号【Aoki分享】",
+      "type": 3,
+      "jar": "./jar/fan.jar",
+      "api": "csp_DouDou",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "玩偶哥哥",
+      "name": "👽玩偶┃网盘",
+      "type": 3,
+      "jar": "./jar/fan.jar",
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+    },
+    {
+      "key": "YGP",
+      "name": "🚀叨观┃荐影",
+      "type": 3,
+      "jar": "./jar/fan.jar",
+      "api": "csp_YGP",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
      {
           "key": "csp_Yj1211",
           "name": "📽️┃在线直播",
