@@ -184,7 +184,7 @@
       "key": "csp_XYQHiker_耐看点播",
       "name": "蓝光-5",
       "type": 3,
-      "jar": "./jar/fan.jar",
+      "jar": "./jar/XYQ.jar",
       "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 1,
