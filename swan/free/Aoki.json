@@ -1,6 +1,10 @@
 {
     "urls": [
         {
+            "url": "http://yydsys.top/duo/v.json",
+            "name": "🔔切换线路后务必刷新接口"
+        },
+        {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/Tongyong.json",
             "name": "🍃青木🌷主线"
         },
