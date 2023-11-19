@@ -49,6 +49,15 @@
             "ext": "./txt/直播.txt"
         },
         {
+          "key": "csp_Yj1211",
+          "name": "📽️┃在线直播",
+          "type": 3,
+          "api": "csp_Yj1211",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1
+        },
+        {
             "key": "js_酷狗MV",
             "name": "🎻┃酷狗｜MV",
             "type": 3,
@@ -126,16 +135,6 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "./lib/geshou.py"
-        },
-        {
-            "key": "py_Nvtuan",
-            "name": "🌷┃女团｜热舞",
-            "type": 3,
-            "api": "py_Nvtuan",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "./lib/nvtuan.py"
         },
         {
             "key": "py_MTV",
@@ -337,6 +336,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/Blixq.json"
+        },
+                {
+            "key": "py_Nvtuan",
+            "name": "🌷┃女团｜热舞",
+            "type": 3,
+            "api": "py_Nvtuan",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./lib/nvtuan.py"
         },
            {
             "key": "MV",
