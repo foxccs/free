@@ -1,6 +1,6 @@
 {
 "storeHouse": [
-{"sourceName":"青木优选仓","https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/Aoki.json"},
+{"sourceName":"青木优选仓","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/Aoki.json"},
 {"sourceName":"多 多 仓库","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/a.txt"},
 {"sourceName":"奇  奇 仓库","sourceUrl":"https://cn.kstore.space/download/2904/123.txt"},
 {"sourceName":"业  余  仓库","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/duocang.json"},
