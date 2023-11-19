@@ -103,8 +103,7 @@
           "searchable": 1,
           "changeable": 0,
           "ext": {"token": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto",
-          "filter": "./json/wogg.json"},
-          "jar": "./jar/fm1004.jar;md5;badfd75846df45e8cf06b53654312ccf"
+          "filter": "./json/wogg.json"}
         },	
        
         {
