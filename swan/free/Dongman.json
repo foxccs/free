@@ -43,7 +43,7 @@
 
 {"key": "csp_Dm84_3","name": "🐡┃动漫┃巴适","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/Dm84.json"},
 
-{"key": "妮可动漫","name": "🦕┃妮可┃动漫","type": 3,"api": "https://gitee.com/foxcccs/free/blob/master/see/drpy.min.js","ext": "https://jihulab.com/foxccs/aoki/-/raw/main/see/妮可动漫.js"},
+{"key": "妮可动漫","name": "🦕┃妮可┃动漫","type": 3,"api": "https://gitee.com/foxcccs/free/blob/master/see/drpy.min.js","ext": "https://jihulab.com/foxccs/aoki/-/blob/main/see/%E5%A6%AE%E5%8F%AF%E5%8A%A8%E6%BC%AB.js?ref_type=heads"},
 
 {"key": "去看吧","name": "🦖┃去看┃漫吧","type": 3,"api": "https://gitee.com/foxcccs/free/blob/master/see/drpy.min.js","ext": "https://gitee.com/foxcccs/free/raw/master/see/%E5%8E%BB%E7%9C%8B%E5%90%A7.js"},
 
