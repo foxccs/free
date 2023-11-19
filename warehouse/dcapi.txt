@@ -1,11 +1,11 @@
 {
 "storeHouse": [
-{"sourceName":"青木优选仓","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/Aoki.json"},
-{"sourceName":"心 动 仓库","sourceUrl":"http://rihou.vip:666"},
-{"sourceName":"多 多 仓库","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/a.txt"},
-{"sourceName":"奇  奇仓库","sourceUrl":"https://cn.kstore.space/download/2904/123.txt"},
-{"sourceName":"业  余仓库","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/duocang.json"},
-{"sourceName":"熊猫不叫猫","sourceUrl":"https://ghproxy.net/https://github.com/xmbjm/xmbjm/blob/main/xmbjmdc.json"}
+{"sourceName":"🍃┃青木优选仓","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/Aoki.json"},
+{"sourceName":"🍂┃心 动 仓库","sourceUrl":"http://rihou.vip:666"},
+{"sourceName":"🌾┃多 多 仓库","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/a.txt"},
+{"sourceName":"🍁┃奇  奇仓库","sourceUrl":"https://cn.kstore.space/download/2904/123.txt"},
+{"sourceName":"☘️┃业  余仓库","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/duocang.json"},
+{"sourceName":"🐼┃熊猫不叫猫","sourceUrl":"https://ghproxy.net/https://github.com/xmbjm/xmbjm/blob/main/xmbjmdc.json"}
 ]
 }
 
