@@ -18,14 +18,18 @@
             "url": "http://rihou.vip:88/荷城茶秀",
             "name": "🍃青木 | 荷城茶秀"
         },
+       {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+            "name": "🍃青木 | 湘  雅 情"
+        },
+        {
+            "url": "http://52bsj.vip:98/wuai",
+            "name": "🍃青木 | 吾爱线路"
+        },                      
         {
             "url": "http://饭太硬.top/tv",
             "name": "🍃青木 | 饭  太 硬"
         },                      
-        {
-            "url": "http://肥猫.love",
-            "name": "🍃青木 | 肥猫线路"
-        },  
         {
             "url": "https://raw.gitmirror.com/xmbjm/shiguang/main/shiguangdx.json",
             "name": "🍃青木| 熊猫线路"
