@@ -94,6 +94,7 @@
       "key": "Gitcafe",
       "name": "🔍小纸条",
       "type": 3,
+      "jar": "./jar/alibaba.jar",
       "api": "csp_Paper",
       "searchable": 1,
       "quickSearch": 1,
