@@ -215,7 +215,7 @@
 {"key":"csp_午舞","name":"🐘穷奇","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/五五影视.json"},
           {
       "key": "49zy",
-      "name": "🦩毕方",
+      "name": "🐥毕方",
       "type": 1,
       "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -529,7 +529,7 @@
     },
     {
       "key": "csp_xml_享看",
-      "name": "🦯享看",
+      "name": "🌾享看",
       "type": 1,
       "searchable": 1,
       "quickSearch": 1,
@@ -754,7 +754,7 @@
     },
      {
       "key": "量子资源",
-      "name": "🥑量子",
+      "name": "✨量子",
       "type": 1,
       "api": "http://cj.lziapi.com/api.php/provide/vod/",
       "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
@@ -780,7 +780,7 @@
       },
      {
       "key": "csp_非凡资源",
-      "name": "🥗非凡",
+      "name": "💫非凡",
       "type": 1,
       "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
       "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
@@ -922,7 +922,7 @@
     },
    
 {"key":"芒果","name":"🍋芒果(官)","type":3,"api":"https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js","ext":"https://jihulab.com/foxccs/aoki/-/raw/main/see/mangguo.js"},
-{"key":"sohu","name":"🦊搜狐(官)","type":1,"api":"https://tvbox-1-g5221611.deta.app/vod/sohu","searchable":1,"quickSearch":1,"playUrl":"parse:超级7"},
+{"key":"sohu","name":"🐰搜狐(官)","type":1,"api":"https://tvbox-1-g5221611.deta.app/vod/sohu","searchable":1,"quickSearch":1,"playUrl":"parse:超级7"},
 
 {"key": "爱奇异","name": "🥝爱奇艺(官)","type": 3,"api": "https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js","ext": "https://jihulab.com/foxccs/aoki/-/raw/main/see/iqy.js"},
         
