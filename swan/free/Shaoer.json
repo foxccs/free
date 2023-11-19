@@ -60,7 +60,7 @@
             "name": "👶┃儿童启蒙",
             "type": 3,
             "api": "https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js",
-            "ext": "https://jihulab.com/foxccs/aoki/-/raw/main/see/兔小贝.js",
+            "ext": "https://gitee.com/foxcccs/free/raw/master/see/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
