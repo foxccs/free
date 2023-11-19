@@ -39,7 +39,7 @@
 
 {"key":"次元城","name":"🦈┃次元┃漫城","type":3,"api":"csp_Cycdm","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.95189371.cn/ciyuancheng.php/v6/"},
 
-{"key": "AGE动漫","name": "🍀┃AGE┃动漫","type": 3,"jar": "./jar/fan.jar","api": "https://gitee.com/foxcccs/free/raw/master/see/drpy.min.js","ext": "https://gitee.com/foxcccs/free/raw/master/see/AGE%E5%8A%A8%E6%BC%AB.js"},
+{"key": "AGE动漫","name": "🍀┃AGE┃动漫","type": 3,"api": "https://gitee.com/foxcccs/free/raw/master/see/drpy.min.js","ext": "https://gitee.com/foxcccs/free/raw/master/see/AGE%E5%8A%A8%E6%BC%AB.js"},
 
 {"key": "csp_Dm84_3","name": "🐡┃动漫┃巴适","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/Dm84.json"},
 
@@ -49,7 +49,7 @@
 
 {"key": "drpy_js_曲奇动漫","name": "🪶┃曲奇┃动漫","type": 3,"api": "https://gitee.com/foxcccs/free/raw/master/see/drpy2.min.js","ext": "https://gitee.com/foxcccs/free/raw/master/see/%E6%9B%B2%E5%A5%87%E5%8A%A8%E6%BC%AB.js"},
 
-{"key": "异世界","name": "🐣┃异世┃漫界","type": 3,"api": "https://gitee.com/foxcccs/free/blob/master/see/drpy.min.js","ext": "https://gitee.com/foxcccs/free/raw/master/see/异世界.js"},
+{"key": "异世界","name": "🐣┃异世┃漫界","type": 3,"api": "https://gitee.com/foxcccs/free/blob/master/see/drpy.min.js","ext": "https://gitee.com/foxcccs/free/raw/master/see/%E5%BC%82%E4%B8%96%E7%95%8C.js"},
 		
 {"key": "ext_live_protocol","name": "🎈公众号：Aoki分享","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"changeable": 0},
     
