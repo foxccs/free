@@ -40,7 +40,7 @@
     
 {"key": "玩偶内置","name": "👽玩偶┃T4","type": 4, "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=f376521b7ba247b183262c2732d870ba"},
 
-{"key": "js_4KHDR","name": "👩‍⚕️玩偶┃姐姐","type": 3,"api": "https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/foxccs/aoki/-/raw/main/see/4KHDR.js"},
+{"key": "js_4KHDR","name": "👩‍⚕玩偶┃姐姐","type": 3,"api": "https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/foxccs/aoki/-/raw/main/see/4KHDR.js"},
     
 {"key": "新片热播","name": "🐩新片","type": 1,"api": "https://api.iku.cool/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 0,"categories": ["连续剧","动漫"]},
     
