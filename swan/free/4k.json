@@ -23,7 +23,7 @@
         },
         {
             "key": "m1905",
-            "name": "CCTV┃电影🎈",
+            "name": "🎈CCTV┃电影",
             "type": 3,
             "api": "py_cctv",
             "searchable": 0,
@@ -32,21 +32,22 @@
             "ext": "./lib/m1905.py"
         },
         {
-            "key": "央视经典",
-            "name": "CCTV┃经典🎈",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/哔哩经典.json"
-        },
-        {
             "key": "直播转点播",
             "name": "📺︎┃电视┃直播",
             "type": 3,
             "api": "./js/直播转点播2.js",
             "ext": "./txt/直播.txt"
+        },
+          {
+            "key": "csp_KungFu404",
+            "name": "💠阿里┃设置",
+            "type": 3,
+            "api": "csp_KungFu404",
+            "searchable": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "jar": "./jar/alibaba.jar",
+            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
         },
          {
           "key": "csp_ttkx",
@@ -66,17 +67,7 @@
             "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=f376521b7ba247b183262c2732d870ba"
         },
         {"key": "js_4KHDR","name": "👩‍⚕玩偶┃姐姐","type": 3,"api": "https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/foxccs/aoki/-/raw/main/see/4KHDR.js"},
-    {
-      "key": "厂长",
-      "name": "厂长丨超清",
-      "playerType": 1,
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/cz.json"
-    },
+   
         {
             "key": "新片热播",
             "name": "🍃新片",
@@ -101,10 +92,20 @@
             "filterable": 1,
             "ext": "https://ownjpykxttjzuhy.jiesiwa.com"
         },
-        
+    {
+      "key": "厂长",
+      "name": "🏭厂长┃超清",
+      "playerType": 1,
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/cz.json"
+    },
     {
       "key": "drpy_js_两个BT",
-      "name": "BT丨超清",
+      "name": "🌊BT┃超清",
       "playerType": 1,
       "type": 3,
       "api": "https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js",
@@ -112,7 +113,7 @@
     },
     {
       "key": "tudou",
-      "name": "土豆丨超清",
+      "name": "💧土豆┃超清",
       "playerType": 1,
       "type": 3,
       "api": "csp_AppYsV2",
@@ -124,7 +125,7 @@
     },
     {
       "key": "zxzj",
-      "name": "在线丨蓝光",
+      "name": "❄️在线┃蓝光",
       "playerType": 1,
       "type": 3,
       "jar": "./jar/fan.jar",
@@ -136,7 +137,7 @@
     },
     {
       "key": "csp_Bttoo",
-      "name": "蓝光-2",
+      "name": "🌌哔嘀┃蓝光",
       "playerType": 1,
       "type": 3,
       "jar": "./jar/fan.jar",
@@ -147,7 +148,7 @@
     },
     {
       "key": "app_轻简",
-      "name": "轻简丨蓝光",
+      "name": "🌪️轻简┃蓝光",
       "playerType": 1,
       "type": 1,
       "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
@@ -160,7 +161,7 @@
     },
     {
       "key": "saohuo",
-      "name": "骚火丨蓝光",
+      "name": "🔥骚火┃蓝光",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
