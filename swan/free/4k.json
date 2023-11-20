@@ -47,7 +47,7 @@
             "filterable": 0,
             "changeable": 0,
             "jar": "./jar/alibaba.jar",
-            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
+            "ext": "http://127.0.0.1:9978/file/Aoki/token.txt+4k|fhd|auto"
         },
          {
           "key": "csp_ttkx",
@@ -56,7 +56,7 @@
           "api": "csp_Wogg",
           "searchable": 1,
           "changeable": 0,
-          "ext": {"token": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto",
+          "ext": {"token": "http://127.0.0.1:9978/file/Aoki/token.txt+4k|fhd|auto",
                   "filter": "./json/wogg.json"},
           "jar": "./jar/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9"
         },	
