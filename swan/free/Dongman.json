@@ -37,7 +37,17 @@
  
 {"key":"维奇","name":"🌊┃维奇┃动漫","type":3,"jar": "./jar/fan.jar","api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/维奇.json"},
 
-{"key":"次元城","name":"🦈┃次元┃漫城","type":3,"jar": "https://jihulab.com/zhulr7765/tvbox/-/raw/main/jar/spider.jar","api":"csp_Cycdm","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.95189371.cn/ciyuancheng.php/v6/"},
+        {
+            "key": "次元城",
+            "name": "次元城",
+            "type": 3,
+            "jar": "https://jihulab.com/zhulr7765/tvbox/-/raw/main/jar/spider.jar",
+            "api": "csp_Cycdm",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://app.95189371.cn/ciyuancheng.php/v6/"
+        },
 
 {"key": "csp_Dm84_3","name": "🐡┃动漫┃巴适","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/Dm84.json"},
 
