@@ -49,7 +49,6 @@
 
 {"key": "csp_Dm84_3","name": "🐡┃动漫┃巴适","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/Dm84.json"},
 
-{"key": "去看吧","name": "🦖┃去看┃漫吧","type": 3,"jar": "./jar/fan.jar","api": "https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy.min.js","ext": "https://gitee.com/foxcccs/free/raw/master/see/%E5%8E%BB%E7%9C%8B%E5%90%A7.js"},
 
 {"key": "drpy_js_曲奇动漫","name": "🪶┃曲奇┃动漫","type": 3,"api": "https://gitee.com/foxcccs/free/raw/master/see/drpy2.min.js","ext": "https://gitee.com/foxcccs/free/raw/master/see/%E6%9B%B2%E5%A5%87%E5%8A%A8%E6%BC%AB.js"},
 
