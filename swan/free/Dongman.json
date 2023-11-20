@@ -31,6 +31,28 @@
 
 {"key": "js58","name": "👩‍🎨┃五八┃动漫","type": 3,"api": "https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://jihulab.com/foxccs/aoki/-/raw/main/see/58动漫.js"},
 
+       {
+            "key": "次元城",
+            "name": "🍨┃次元┃动漫",
+            "type": 3,
+            "api": "csp_Cycdm",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://app.95189371.cn/ciyuancheng.php/v6/",
+           "jar": "https://jihulab.com/zhulr7765/tvbox/-/raw/main/jar/spider.jar"
+        }, 
+       {
+            "key": "csp_Anime1",
+            "name": "🐞┃日本┃东漫",
+            "type": 3,
+            "jar": "./jar/fan.jar",
+            "api": "csp_Anime1",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+
 {"key": "动漫直链","name": "💧┃动漫┃直链","type": 3,"jar": "./jar/fan.jar", "api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/动漫直链.json"},
   
 {"key":"去看吧","name":"🐬┃去看┃动漫","type":3,"jar": "./jar/fan.jar","api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/去看吧.json"},
