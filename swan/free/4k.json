@@ -383,7 +383,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "b4242bebe6f144d3aa6a2cd842ac65aa"
+      "ext": "http://127.0.0.1:9978/file/Aoki/token.txt+4k|auto|fhd"
     },
         {
             "key": "YiSo",
@@ -393,7 +393,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+            "ext": "http://127.0.0.1:9978/file/Aoki/token.txt+4k|auto|fhd"
         },
         {
             "key": "Zhaozy",
@@ -403,7 +403,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$fanty$$$qqq111"
+            "ext": "http://127.0.0.1:9978/file/Aoki/token.txt+4k|auto|fhd$$$fanty$$$qqq111"
         },
         {
             "key": "PanSou",
@@ -413,7 +413,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+            "ext": "http://127.0.0.1:9978/file/Aoki/token.txt+4k|auto|fhd"
         },
         {
             "key": "UpYun",
@@ -423,7 +423,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+            "ext": "http://127.0.0.1:9978/file/Aoki/token.txt+4k|auto|fhd"
         },
         {
             "key": "PanSearch",
@@ -433,7 +433,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+            "ext": "http://127.0.0.1:9978/file/Aoki/token.txt+4k|auto|fhd"
         },
         {
             "key": "七夜",
@@ -443,7 +443,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+            "ext": "http://127.0.0.1:9978/file/Aoki/token.txt+4k|auto|fhd"
         },
         {
             "key": "push_agent",
@@ -452,7 +452,7 @@
             "api": "csp_Push",
             "searchable": 0,
             "quickSearch": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+            "ext": "http://127.0.0.1:9978/file/Aoki/token.txt+4k|auto|fhd"
         },
         {
             "key": "ext_live_protocol",
