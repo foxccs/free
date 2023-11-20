@@ -219,7 +219,11 @@
             "filterable": 1,
             "ext": "./lib/初中.py"
         },
-
+		
+{"key": " py_中国文化","name": 📚┃中国文化,"type": 3, "jar": "./jar/fan.jar","api": "py_中国文化","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/py_中国文化.py"},
+		
+{"key": "学习","name": 📚┃学习园地,"type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/学习园地.json"},
+		
 {"key":"学习园地","name":"📚┃学习园地","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/Blixt.json"},
 
 {"key":"学外语","name":"📚┃学习外语","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/waiyu.json"},
