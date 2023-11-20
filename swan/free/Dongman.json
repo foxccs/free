@@ -31,28 +31,6 @@
 
 {"key": "js58","name": "👩‍🎨┃五八┃动漫","type": 3,"api": "https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://jihulab.com/foxccs/aoki/-/raw/main/see/58动漫.js"},
 
-       {
-            "key": "次元城",
-            "name": "🍨┃次元┃动漫",
-            "type": 3,
-            "api": "csp_Cycdm",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://app.95189371.cn/ciyuancheng.php/v6/",
-           "jar": "https://jihulab.com/zhulr7765/tvbox/-/raw/main/jar/spider.jar"
-        }, 
-       {
-            "key": "csp_Anime1",
-            "name": "🐞┃日本┃东漫",
-            "type": 3,
-            "jar": "./jar/fan.jar",
-            "api": "csp_Anime1",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-
 {"key": "动漫直链","name": "💧┃动漫┃直链","type": 3,"jar": "./jar/fan.jar", "api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/动漫直链.json"},
   
 {"key":"去看吧","name":"🐬┃去看┃动漫","type":3,"jar": "./jar/fan.jar","api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/去看吧.json"},
@@ -61,17 +39,12 @@
 
 {"key":"次元城","name":"🦈┃次元┃漫城","type":3,"api":"csp_Cycdm","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.95189371.cn/ciyuancheng.php/v6/"},
 
-{"key": "AGE动漫","name": "🍀┃AGE┃动漫","type": 3,"api": "https://gitee.com/foxcccs/free/raw/master/see/drpy.min.js","ext": "https://gitee.com/foxcccs/free/raw/master/see/AGE%E5%8A%A8%E6%BC%AB.js"},
-
 {"key": "csp_Dm84_3","name": "🐡┃动漫┃巴适","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/Dm84.json"},
-
-{"key": "妮可动漫","name": "🦕┃妮可┃动漫","type": 3,"api": "https://gitee.com/foxcccs/free/blob/master/see/drpy.min.js","ext": "https://jihulab.com/foxccs/aoki/-/blob/main/see/%E5%A6%AE%E5%8F%AF%E5%8A%A8%E6%BC%AB.js?ref_type=heads"},
 
 {"key": "去看吧","name": "🦖┃去看┃漫吧","type": 3,"api": "https://gitee.com/foxcccs/free/blob/master/see/drpy.min.js","ext": "https://gitee.com/foxcccs/free/raw/master/see/%E5%8E%BB%E7%9C%8B%E5%90%A7.js"},
 
 {"key": "drpy_js_曲奇动漫","name": "🪶┃曲奇┃动漫","type": 3,"api": "https://gitee.com/foxcccs/free/raw/master/see/drpy2.min.js","ext": "https://gitee.com/foxcccs/free/raw/master/see/%E6%9B%B2%E5%A5%87%E5%8A%A8%E6%BC%AB.js"},
 
-{"key": "异世界","name": "🐣┃异世┃漫界","type": 3,"api": "https://gitee.com/foxcccs/free/blob/master/see/drpy.min.js","ext": "https://gitee.com/foxcccs/free/raw/master/see/%E5%BC%82%E4%B8%96%E7%95%8C.js"},
 		
 {"key": "ext_live_protocol","name": "🎈公众号：Aoki分享","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"changeable": 0},
     
