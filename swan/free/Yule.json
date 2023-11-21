@@ -13,7 +13,7 @@
     "sites": [
         {
             "key": "py_cctv",
-            "name": "🐦CCTV🎈青木整理🎈",
+            "name": "🐦CCTV🎈青木整理",
             "type": 3,
             "api": "py_cctv",
             "searchable": 0,
@@ -23,7 +23,7 @@
         },
         {
             "key": "m1905",
-            "name": "CCTV┃电影🎈",
+            "name": "💫CCTV┃电影",
             "type": 3,
             "api": "py_cctv",
             "searchable": 0,
@@ -33,7 +33,7 @@
         },
         {
             "key": "央视经典",
-            "name": "CCTV┃经典🎈",
+            "name": "💫CCTV┃经典",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
