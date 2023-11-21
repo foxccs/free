@@ -14,9 +14,9 @@
 
 {  "key": "py_cctv", "name": "🐦CCTV🎈青木整理", "type": 3,  "api": "py_cctv",  "searchable": 0,  "quickSearch": 0,  "filterable": 0,  "ext": "./lib/py_cctv.py"},
 
-{  "key": "m1905",  "name": "🎈CCTV┃电影",  "type": 3,  "api": "py_cctv",  "searchable": 0,  "quickSearch": 0,  "filterable": 0,  "ext": "./lib/m1905.py"},
+{  "key": "m1905",  "name": "💫CCTV┃电影",  "type": 3,  "api": "py_cctv",  "searchable": 0,  "quickSearch": 0,  "filterable": 0,  "ext": "./lib/m1905.py"},
 
-{  "key": "央视经典",  "name": "🎈CCTV┃经典",  "type": 3,  "api": "csp_Bili",  "searchable": 0,  "quickSearch": 1,  "filterable": 1,  "ext": "./json/哔哩经典.json"},
+{  "key": "央视经典",  "name": "💫CCTV┃经典",  "type": 3,  "api": "csp_Bili",  "searchable": 0,  "quickSearch": 1,  "filterable": 1,  "ext": "./json/哔哩经典.json"},
 		
 {"key":"csp_Dm84","name":"🚌┃动漫┃巴士","type":3,"jar": "./jar/fan.jar","api":"csp_Dm84","searchable":1,"quickSearch":1,"changeable":1},
 
