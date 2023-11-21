@@ -798,13 +798,6 @@
       "playerType": "2"
     },
     {
-      "key": "csp_Nmys",
-      "name": "🌾农民",
-      "type": 3,
-      "api": "csp_Nmys",
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json"
-    },
-    {
       "key": "Xinsj",
       "name": "👓视觉",
       "type": 3,
