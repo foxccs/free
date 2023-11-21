@@ -4,7 +4,7 @@
 "sites":[
     {
       "key": "豆豆",
-      "name": "🌕公众号：Aoki分享",
+      "name": "🐦公众号：Aoki分享",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
