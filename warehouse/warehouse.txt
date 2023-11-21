@@ -33,6 +33,10 @@
         {
             "url": "http://饭太硬.top/tv",
             "name": "🍃青木 | 饭  太 硬"
+        },      
+        {
+            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
+            "name": "🍃青木 | 肥猫线路"
         },                      
         {
             "url": "https://raw.gitmirror.com/xmbjm/shiguang/main/shiguangdx.json",
