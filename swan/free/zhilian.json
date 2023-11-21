@@ -79,7 +79,7 @@
       "key": "csp_JianPian",
       "name": "🕊️荐片",
       "type": 3,
-      "jar":"./jar/Aoki.jar;md5;c253e1930a210fa5141e5418f1f90949",
+      "jar": "./jar/Aoki.jar;md5;c253e1930a210fa5141e5418f1f90949",
       "api": "csp_JianPian",
       "playerType": 1,
       "ext": "https://ownjpykxttjzuhy.jiesiwa.com"
