@@ -1641,47 +1641,58 @@
       }
     },
     {
+            "key": "Gitcafe",
+            "name": "🔍小纸条",
+            "type": 3,
+            "jar": "./lib/HeChengChaXiu.jar",
+            "api": "csp_Paper",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://127.0.0.1:9978/file/Aoki/token.txt+4k|auto|fhd"
+    },
+    {
       "key": "YiSo",
-      "name": "☁️易搜┃4K搜",
+      "name": "🔎易搜┃4K搜",
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
+      "ext": "http://127.0.0.1:9978/file/Aoki/token.txt+4k|fhd|auto"
     },
     {
       "key": "Zhaozy",
-      "name": "🎉资源┃4K搜",
+      "name": "🔎资源┃4K搜",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto$$$wudidewo$$$wudi"
+      "ext": "http://127.0.0.1:9978/file/Aoki/token.txt+4k|fhd|auto$$$wudidewo$$$wudi"
     },
     {
       "key": "七夜",
-      "name": "😾七夜┃搜索",
+      "name": "🔎七夜┃搜索",
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+      "ext": "http://127.0.0.1:9978/file/Aoki/token.txt+4k|auto|fhd"
     },
     {
       "key": "UpYun",
-      "name": "☁️Up搜┃4K搜",
+      "name": "🔎Up搜┃4K搜",
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
+      "ext": "http://127.0.0.1:9978/file/Aoki/token.txt+4k|fhd|auto"
     },
 
   
