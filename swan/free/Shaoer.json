@@ -219,7 +219,7 @@
             "filterable": 1,
             "ext": "./lib/初中.py"
         },
-{"key": "py_zyy","name": "🛅中医药区","type": 3,"api": "py_zyy","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://111.67.201.131/test/lib/zyy.py"},
+{"key": "py_zyy","name": "🛅┃中医药区","type": 3,"api": "py_zyy","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://111.67.201.131/test/lib/zyy.py"},
 		
 {"key": " py_中国文化","name": 📚┃中国文化,"type": 3, "jar": "./jar/fan.jar","api": "py_中国文化","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/py_中国文化.py"},
 		
