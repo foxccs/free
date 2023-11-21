@@ -1522,7 +1522,7 @@
             "key": "Gitcafe",
             "name": "🔍小纸条",
             "type": 3,
-            "jar": "./lib/HeChengChaXiu.jar",
+            "jar": "./jar/HeChengChaXiu.jar",
             "api": "csp_Paper",
             "searchable": 1,
             "quickSearch": 1,
