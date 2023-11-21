@@ -11,7 +11,7 @@
         }
     ],
     "sites": [
-        {"key":"豆瓣","name":"🐦豆瓣丨公众号：Aoki分享🎈","type":3,"api":"https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://jihulab.com/foxccs/aoki/-/raw/main/see/douban.js"},
+        {"key":"豆瓣","name":"🐦豆瓣丨公众号：Aoki分享","type":3,"api":"https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://jihulab.com/foxccs/aoki/-/raw/main/see/douban.js"},
         {
             "key": "csp_KungFu404",
             "name": "💠┃阿里设置",
@@ -34,7 +34,7 @@
         
         {
             "key": "py_cctv",
-            "name": "CCTV┃综合🎈",
+            "name": "💫CCTV┃综合",
             "type": 3,
             "api": "py_cctv",
             "searchable": 0,
@@ -44,7 +44,7 @@
         },
         {
             "key": "m1905",
-            "name": "CCTV┃电影🎈",
+            "name": "💫CCTV┃电影",
             "type": 3,
             "api": "py_cctv",
             "searchable": 0,
@@ -54,7 +54,7 @@
         },
         {
             "key": "央视经典",
-            "name": "CCTV┃经典🎈",
+            "name": "💫CCTV┃经典",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
