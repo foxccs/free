@@ -41,6 +41,17 @@
             "filterable": 1,
             "ext": "./json/哔哩经典.json"
         },
+   {
+      "key": "cctv",
+      "name": "💫CCTV｜大全",
+      "type": 3,
+      "jar": "https://jihulab.com/foxccs/aoki/-/raw/main/jar/HCCX.jar",
+      "api": "csp_CCTV",
+      "searchable": 0,
+      "filterable": 0,
+      "ext": "https://jihulab.com/foxccs/aoki/-/raw/main/json/%E5%A4%AE%E8%A7%86%E5%A4%A7%E5%85%A8.json"
+    },
+
         {
             "key": "直播转点播",
             "name": "📺︎┃电视┃直播",
@@ -184,8 +195,22 @@
           "ext": {"数组": "class=\"stui-vodlist__box&&</li",
                   "分类url": "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html",
                   "分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"}
-        },		
-            {
+        },	
+     {
+      "key": "广播迷",
+      "name": "📻调频┃广播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类": "央视$zy#北京$bj#上海$sh#天津$tj#重庆$cq#广东$gd#四川$sc#山东$sd#江苏$js#浙江$zj#河南$henan#河北$hebei#辽宁$ln#安徽$ah#湖南$hn#湖北$hubei#福建$fj#广西$gx#山西$sxi#云南$yn#贵州$gz#西藏$xz#宁夏$nx#海南$hainan#新疆$xj#甘肃$gs#青海$qh#黑龙江$hlj#内蒙古$nmg#港澳$hk",
+        "编码": "GBK",
+        "播放数组": "ax-grid ax-split-2 ax-space-md&&</ul>",
+        "线路数组": "ax-btn*ax-padding ax-xl\">&&/a>[不包含:介绍]",
+        "分类url": "http://www.guangbomi.com/tv/{cateId}/{catePg}.html[http://www.guangbomi.com/tv/{cateId}/index.html"
+      }
+    },
+
+    {
       "key": "相声",
       "name": "📻相声┃BPQ",
       "type": 3,
