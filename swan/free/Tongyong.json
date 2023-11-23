@@ -227,6 +227,29 @@
             "type": 4,
             "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=f376521b7ba247b183262c2732d870ba"
         },
+    {
+      "key": "姐姐",
+      "name": "👽玩偶┃姐姐",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://dytt996.com/api.php/app/"
+    },
+    {
+      "key": "小姨",
+      "name": "👽玩偶┃妹妹",
+      "type": 1,
+      "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
+      "categories": [
+        "电影",
+        "电视剧",
+        "综艺",
+        "动漫"
+      ]
+    },
+
         {
             "key": "新片热播",
             "name": "🐩新片",
@@ -487,7 +510,7 @@
         },
         {
             "key": "爱奇艺资源",
-            "name": "️🍐爱奇艺",
+            "name": "️🍐奇艺",
             "type": 1,
             "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qiyi/?at/xml/",
             "searchable": 1,
