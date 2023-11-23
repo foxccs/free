@@ -175,6 +175,20 @@
         "分类": "袁阔成$ykc#单田芳$stf#田连元$tly#刘兰芳$llf#连丽如$llr#张少佐$zsz#田战义$tzy"
       }
     },
+   {
+      "key": "FirstAid",
+      "name": "🚑┃急救教学",
+      "type": 3,
+      "jar": "./jar/fan.jar",
+      "api": "csp_FirstAid",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 3.8
+      }
+    },
         {
             "key": "csp_XYQHiker_虎牙直播",
             "name": "🐯┃虎牙｜直播",
@@ -195,20 +209,7 @@
             "filterable": 0,
             "ext": "./json/斗鱼直播.json"
         },
-          {
-      "key": "FirstAid",
-      "name": "🚑┃急救教学",
-      "type": 3,
-      "jar": "./jar/fan.jar",
-      "api": "csp_FirstAid",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 3.8
-      }
-    },
+
         {
           "key": "csp_ttkx",
           "name": "👽玩偶┃网盘",
