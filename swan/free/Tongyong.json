@@ -14,7 +14,7 @@
         {"key":"豆瓣","name":"🐦豆瓣丨公众号：Aoki分享","type":3,"api":"https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://jihulab.com/foxccs/aoki/-/raw/main/see/douban.js"},
         {
             "key": "csp_KungFu404",
-            "name": "💠┃阿里设置",
+            "name": "💠网盘┃设置",
             "type": 3,
             "api": "csp_KungFu404",
             "searchable": 0,
@@ -83,7 +83,7 @@
         },
           {
       "key": "FirstAid",
-      "name": "🚑┃急救┃教学",
+      "name": "🚑┃急救教学",
       "type": 3,
       "jar": "./jar/fan.jar",
       "api": "csp_FirstAid",
@@ -109,7 +109,7 @@
        
         {
             "key": "玩偶内置",
-            "name": "👽玩偶┃T4",
+            "name": "👽玩偶┃哥哥",
             "type": 4,
             "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=f376521b7ba247b183262c2732d870ba"
         },
@@ -932,7 +932,7 @@
 
 {"key": "提示","name": "🎈QQ频道：青木分享","type": 3,"api": "360","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key": "说明","name": "🎈青木整理：11月18号","type": 3,"api": "360","searchable": 1,"quickSearch": 1,"filterable": 1}
+{"key": "说明","name": "🎈青木整理：11月23号","type": 3,"api": "360","searchable": 1,"quickSearch": 1,"filterable": 1}
     ],
     
     "parses": [
