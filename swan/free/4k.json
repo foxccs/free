@@ -38,7 +38,7 @@
             "api": "./js/直播转点播2.js",
             "ext": "./txt/直播.txt"
         },
-    {
+   {
       "key": "csp_玩偶哥哥",
       "name": "👽玩偶┃网盘",
       "type": 3,
@@ -46,7 +46,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://pan.shangui.cc/f/jo2ec7/玩偶哥哥.json"
+      "ext": "./json/玩偶哥哥.json"
     },
         {
             "key": "玩偶内置",
