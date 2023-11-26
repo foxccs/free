@@ -4,23 +4,6 @@
   "sites": [
     
     {
-      "key": "影图",
-      "name": "影图采集",
-      "type": 1,
-      "api": "https://cj.vodimg.top/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "小猫咪",
-      "name": "猫咪采集",
-      "type": 1,
-      "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
       "key": "快云资源",
       "name": "快云采集",
       "type": 1,
