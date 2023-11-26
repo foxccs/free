@@ -305,33 +305,6 @@
       ]
     },
     {
-      "key": "csp_Kuaikan",
-      "name": "快看",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Bdys",
-      "name": "哔嘀",
-      "type": 3,
-      "api": "csp_Bdys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Ddys",
-      "name": "低端",
-      "type": 3,
-      "api": "csp_Ddys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "蚂蚁",
       "name": "蚂蚁",
       "type": 3,
@@ -471,30 +444,6 @@
         "日韩动漫",
         "欧美动漫"
       ]
-    },
-    {
-      "key": "csp_Xunlei8",
-      "name": "迅雷",
-      "type": 3,
-      "api": "csp_Xunlei8",
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "速看",
-      "name": "速看",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://sk100.tv/api.php/app/"
     },
     {
       "key": "cjzy_暴风资源",
@@ -640,17 +589,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
-    },
-    {
-      "key": "彩虹",
-      "name": "彩虹",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"
     },
     {
       "key": "影探4K",
