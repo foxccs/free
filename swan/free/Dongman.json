@@ -52,22 +52,22 @@
             "key": "NT动漫",
             "name": "💨┃NT┃动漫",
             "type": 3,
-            "api": "https://gitee.com/foxcccs/free/raw/master/see/drpy2.min.js",
+            "api": "./js/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://gitee.com/foxcccs/free/raw/master/see/NT%E5%8A%A8%E6%BC%AB.js"
+            "ext": "./js/NT动漫.js"
         },
     {
       "key": "nt动漫",
       "name": "🏑┃拿铁┃动漫",
       "type": 3,
-      "api": "https://gitee.com/foxcccs/free/raw/master/see/drpy2.min.js",
-      "ext": "https://gitee.com/foxcccs/free/raw/master/see/ntdm.js"
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/ntdm.js"
     },
 
-{"key": "js58","name": "🐋┃五八┃动漫","type": 3,"api": "https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://jihulab.com/foxccs/aoki/-/raw/main/see/58动漫.js"},
+{"key": "js58","name": "🐋┃五八┃动漫","type": 3,"api": "./js/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./js/58动漫.js"},
 
 {"key": "动漫直链","name": "💧┃动漫┃直链","type": 3,"jar": "./jar/fan.jar", "api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/动漫直链.json"},
 
@@ -76,7 +76,7 @@
 {"key": "csp_Dm84_3","name": "🐡┃动漫┃巴适","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/Dm84.json"},
 
 
-{"key": "drpy_js_曲奇动漫","name": "🪶┃曲奇┃动漫","type": 3,"api": "https://gitee.com/foxcccs/free/raw/master/see/drpy2.min.js","ext": "https://gitee.com/foxcccs/free/raw/master/see/%E6%9B%B2%E5%A5%87%E5%8A%A8%E6%BC%AB.js"},
+{"key": "drpy_js_曲奇动漫","name": "🪶┃曲奇┃动漫","type": 3,"api": "./js/drpy2.min.js","ext": "./js/曲奇动漫.js"},
 
 		
 {"key": "ext_live_protocol","name": "🎈公众号：Aoki分享","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"changeable": 0},
