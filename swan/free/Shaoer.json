@@ -22,9 +22,27 @@
 		 
 {"key": "益智","name": "🦜┃益智动画","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./json/益智动画.json"},
 		
-{"key":"js_baby","name":"👶┃宝宝合集Ⅰ","type":3,"api":"./js/drpy2.min.js",
-"searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/baby.js"},
-{"key": "py_baby","name": "🏕️┃宝宝合集Ⅱ","type": 3,"api": "py_baby","searchable": 0, "quickSearch": 0, "filterable": 1,"ext": "./lib/baby.py"},
+{
+	"key":"js_baby",
+	"name":"👶┃宝宝合集Ⅰ",
+	"type":3,
+	"api":"./js/drpy2.min.js",
+        "searchable":1,
+	"quickSearch":1,
+	"filterable":1,
+	"ext":"./js/baby.js"
+},
+		
+{
+	"key": "py_baby",
+	"name": "🏕️┃宝宝合集Ⅱ",
+	"type": 3,
+	"api": "py_baby",
+	"searchable": 0, 
+	"quickSearch": 0,
+	"filterable": 1,
+	"ext": "./lib/baby.py"
+},
         {
             "key": "csp_XYQHiker_兔小贝",
             "name": "🐇┃兔小贝Ⅰ",
@@ -217,9 +235,7 @@
             "ext": "./lib/初中.py"
         },
 {"key": "py_zyy","name": "🛅┃中医药区","type": 3,"api": "py_zyy","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./lib/zyy.py"},
-		
-
-		
+			
 {"key": "学习","name": 📚┃学习园地,"type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/学习园地.json"},
 		
 {"key":"学习园地","name":"📚┃学习园地","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/Blixt.json"},
@@ -229,7 +245,17 @@
 {"key": "兴趣培养","name": "🏖️┃兴趣培养","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "./json/兴趣培养.json"},
 		
 {"key": "小灯塔人文", "name": "🌏小灯塔人文", "type": 3, "api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "./json/小灯塔人文.json"},
-{"key": " py_中国文化","name": 🌏小灯塔文化,"type": 3,"api": "py_中国文化","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/py_中国文化.py"},		
+
+		{
+			"key": " py_中国文化",
+			"name": 🌏小灯塔文化,
+			"type": 3,
+			"api": "py_中国文化",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./lib/py_中国文化.py"
+		},		
 		
 {"key":"小灯塔科学","name":"🌏小灯塔科学","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./json/小灯塔科学.json"},
 
