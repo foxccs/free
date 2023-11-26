@@ -1,7 +1,7 @@
 [
     {
         "name": "超级MV",
-        "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/foxccs/txt/MV.txt&&&https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/tupian/065.jpg"
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/txt/MV.txt&&&https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/tupian/065.jpg"
     },
     {
         "name": "青木",
