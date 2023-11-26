@@ -1,77 +1,77 @@
 {
-    "spider": "./jar/Aoki.jar;md5;c253e1930a210fa5141e5418f1f90949",
-    "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-    "lives": [
-        {
-            "name": "live",
-            "type": 0,
-            "url": "./txt/QMlive.txt",
-            "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/bingimg/logo/{name}.png"
-        }
-    ],
-    "sites": [
-        {
-            "key": "py_cctv",
-            "name": "🐦CCTV🎈青木整理",
-            "type": 3,
-            "api": "py_cctv",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "./lib/py_cctv.py"
-        },
-        {
-            "key": "m1905",
-            "name": "💫CCTV┃电影",
-            "type": 3,
-            "api": "py_cctv",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "./lib/m1905.py"
-        },
-        {
-            "key": "央视经典",
-            "name": "💫CCTV┃经典",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/哔哩经典.json"
-        },
-        {
-            "key": "直播转点播",
-            "name": "📺︎┃电视┃直播",
-            "type": 3,
-            "api": "./js/直播转点播2.js",
-            "ext": "./txt/直播.txt"
-        },
-         {
-          "key": "csp_Yj1211",
-          "name": "📽️┃在线直播",
-          "type": 3,
-          "api": "csp_Yj1211",
-          "searchable": 1,
-          "quickSearch": 1,
-          "filterable": 1
-        },
-        {
-            "key": "csp_XPath_企鹅体育",
-            "name": "🐧┃企鹅体育",
-            "type": 3,
-            "api": "csp_XPath",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "./json/企鹅直播.json"
-        },
-     {
+  "spider": "./jar/Aoki.jar;md5;c253e1930a210fa5141e5418f1f90949",
+  "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+  "lives": [
+    {
+      "name": "live",
+      "type": 0,
+      "url": "./txt/QMlive.txt",
+      "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/bingimg/logo/{name}.png"
+    }
+  ],
+  "sites": [
+    {
+      "key": "py_cctv",
+      "name": "🐦CCTV🎈青木整理",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./lib/py_cctv.py"
+    },
+    {
+      "key": "m1905",
+      "name": "💫CCTV┃电影",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "./lib/m1905.py"
+    },
+    {
+      "key": "央视经典",
+      "name": "💫CCTV┃经典",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/哔哩经典.json"
+    },
+    {
+      "key": "直播转点播",
+      "name": "📺︎┃电视┃直播",
+      "type": 3,
+      "api": "./js/直播转点播2.js",
+      "ext": "./txt/直播.txt"
+    },
+    {
+      "key": "csp_Yj1211",
+      "name": "📽️┃在线直播",
+      "type": 3,
+      "api": "csp_Yj1211",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_XPath_企鹅体育",
+      "name": "🐧┃企鹅体育",
+      "type": 3,
+      "api": "csp_XPath",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./json/企鹅直播.json"
+    },
+    {
       "key": "球类",
       "name": "⚽️┃球球合集",
       "type": 3,
@@ -81,7 +81,7 @@
       "filterable": 1,
       "ext": "./json/吾爱球球.json"
     },
-       {
+    {
       "key": "足球",
       "name": "⚽️┃足球合集",
       "type": 3,
@@ -91,7 +91,7 @@
       "filterable": 1,
       "ext": "./json/吾爱球星.json"
     },
-       {
+    {
       "key": "体育",
       "name": "🎳┃哔哩体育",
       "type": 3,
@@ -101,114 +101,115 @@
       "filterable": 1,
       "ext": "./json/吾爱体育.json"
     },
-        {
-          "key":"88看球",
-          "name":"⚽┃88看球",
-          "type":3,
-          "api":"./js/drpy2.min.js",
-          "searchable":0,
-          "quickSearch":0,
-          "filterable":1,
-          "ext":"./js/88kanqiu.js"
-        },
-        {
-            "key": "JRKAN直播",
-            "name": "⚽┃JRKAN直播",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "./json/jrkan.json"
-        },
-        {
-            "key": "js_310直播",
-            "name": "🏀┃三一直播",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "./js/310.js"
-        },
-        {
-            "key": "py_TYjs",
-            "name": "🎳┃体育健身",
-            "type": 3,
-            "api": "py_TYjs",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "./lib/tiyu.py"
-        },
-        {
-            "key": "py_FBqx",
-            "name": "🏀┃球队球星",
-            "type": 3,
-            "api": "py_FBqx",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "./lib/qiudui.py"
-        },
-        {
-            "key": "py_cctv_企鹅",
-            "name": "📺┃体育直播",
-            "type": 3,
-            "api": "py_cctv_full",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "./lib/py_企鹅体育.py"
-        },
-        {
-            "key": "拳皇争霸",
-            "name": "👊┃拳皇争霸",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/quanhuang.js"
-        },
-        {
-            "key": "csp_XYQHiker_虎牙直播",
-            "name": "🐯┃虎牙直播",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "./json/虎牙直播.json"
-        },
-        {
-            "key": "csp_XYQHiker_斗鱼直播",
-            "name": "🐠┃斗鱼直播",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "./json/斗鱼直播.json"
-        },
-        {
-            "key": "棋牌",
-            "name": " 💔┃吾爱棋牌",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "pwd": "50905d7b2216bfeccb5b41016357176b",
-            "ext": "./lib/吾爱棋牌0806.m3u"
-        },
-        {
-            "key": "户外",
-            "name": "💛┃吾爱户外",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "./json/吾爱户外.json"
-        },
+    {
+      "key": "88看球",
+      "name": "⚽┃88看球",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./js/88kanqiu.js"
+    },
+    {
+      "key": "JRKAN直播",
+      "name": "⚽┃JRKAN直播",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/jrkan.json"
+    },
+    {
+      "key": "js_310直播",
+      "name": "🏀┃三一直播",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./js/310.js"
+    },
+    {
+      "key": "py_TYjs",
+      "name": "🎳┃体育健身",
+      "type": 3,
+      "api": "py_TYjs",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./lib/tiyu.py"
+    },
+    {
+      "key": "py_FBqx",
+      "name": "🏀┃球队球星",
+      "type": 3,
+      "api": "py_FBqx",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./lib/qiudui.py"
+    },
+    {
+      "key": "py_cctv_企鹅",
+      "name": "📺┃体育直播",
+      "type": 3,
+      "api": "py_cctv_full",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./lib/py_企鹅体育.py"
+    },
+    {
+      "key": "拳皇争霸",
+      "name": "👊┃拳皇争霸",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/quanhuang.js"
+    },
+    {
+      "key": "csp_XYQHiker_虎牙直播",
+      "name": "🐯┃虎牙直播",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "./json/虎牙直播.json"
+    },
+    {
+      "key": "csp_XYQHiker_斗鱼直播",
+      "name": "🐠┃斗鱼直播",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./json/斗鱼直播.json"
+    },
+    {
+      "key": "棋牌",
+      "name": " 💔┃吾爱棋牌",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "pwd": "50905d7b2216bfeccb5b41016357176b",
+      "ext": "./lib/吾爱棋牌0806.m3u"
+    },
+    {
+      "key": "户外",
+      "name": "💛┃吾爱户外",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/吾爱户外.json"
+    },
+      
 {"key": "ext_live_protocol","name": "微信公众号：Aoki分享","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"changeable": 0},
 
 {"key": "cc","name": "请勿相信视频中任何广告","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0}],
