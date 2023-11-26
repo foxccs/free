@@ -216,9 +216,9 @@
             "filterable": 1,
             "ext": "./lib/初中.py"
         },
-{"key": "py_zyy","name": "🛅┃中医药区","type": 3,"api": "py_zyy","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://111.67.201.131/test/lib/zyy.py"},
+{"key": "py_zyy","name": "🛅┃中医药区","type": 3,"api": "py_zyy","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./lib/zyy.py"},
 		
-{"key": " py_中国文化","name": 📚┃中国文化,"type": 3, "jar": "./jar/fan.jar","api": "py_中国文化","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/py_中国文化.py"},
+
 		
 {"key": "学习","name": 📚┃学习园地,"type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/学习园地.json"},
 		
@@ -229,6 +229,7 @@
 {"key": "兴趣培养","name": "🏖️┃兴趣培养","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "./json/兴趣培养.json"},
 		
 {"key": "小灯塔人文", "name": "🌏小灯塔人文", "type": 3, "api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "./json/小灯塔人文.json"},
+{"key": " py_中国文化","name": 🌏小灯塔文化,"type": 3,"api": "py_中国文化","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/py_中国文化.py"},		
 		
 {"key":"小灯塔科学","name":"🌏小灯塔科学","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./json/小灯塔科学.json"},
 
