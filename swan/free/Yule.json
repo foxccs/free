@@ -45,11 +45,11 @@
       "key": "cctv",
       "name": "💫CCTV｜大全",
       "type": 3,
-      "jar": "https://jihulab.com/foxccs/aoki/-/raw/main/jar/HCCX.jar",
+      "jar": "./jar/HeChengChaXiu.jar",
       "api": "csp_CCTV",
       "searchable": 0,
       "filterable": 0,
-      "ext": "https://jihulab.com/foxccs/aoki/-/raw/main/json/%E5%A4%AE%E8%A7%86%E5%A4%A7%E5%85%A8.json"
+      "ext": "./json/央视大全.json"
     },
 
         {
@@ -72,21 +72,21 @@
             "key": "js_酷狗MV",
             "name": "🎻┃酷狗｜MV",
             "type": 3,
-            "api": "https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js",
+            "api": "./js/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jihulab.com/foxccs/aoki/-/raw/main/see/kugouMV.js"
+            "ext": "./js/kugouMV.js"
         },
         {
             "key": "js_a8音乐",
             "name": "🎸┃A8｜音乐",
             "type": 3,
-            "api": "https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js",
+            "api": "./js/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jihulab.com/foxccs/aoki/-/raw/main/see/a8yy.js"
+            "ext": "./js/a8yy.js"
         },
         {
             "key": "csp_xpath_kuqimv",
@@ -201,13 +201,7 @@
       "name": "📻调频┃广播",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": {
-        "分类": "央视$zy#北京$bj#上海$sh#天津$tj#重庆$cq#广东$gd#四川$sc#山东$sd#江苏$js#浙江$zj#河南$henan#河北$hebei#辽宁$ln#安徽$ah#湖南$hn#湖北$hubei#福建$fj#广西$gx#山西$sxi#云南$yn#贵州$gz#西藏$xz#宁夏$nx#海南$hainan#新疆$xj#甘肃$gs#青海$qh#黑龙江$hlj#内蒙古$nmg#港澳$hk",
-        "编码": "GBK",
-        "播放数组": "ax-grid ax-split-2 ax-space-md&&</ul>",
-        "线路数组": "ax-btn*ax-padding ax-xl\">&&/a>[不包含:介绍]",
-        "分类url": "http://www.guangbomi.com/tv/{cateId}/{catePg}.html[http://www.guangbomi.com/tv/{cateId}/index.html"
-      }
+      "ext": "./json/广播.json"
     },
 
     {
@@ -221,29 +215,7 @@
       },
       "quickSearch": 0,
       "api": "csp_XBPQ",
-      "jar": "http://luoye.shop/b.jar;md5;1484e86a3a4463eaf8ef41c6832a1df0",
-      "ext": {
-        "主页url": "https://www.xsmp3.com",
-        "数组二次截取": "<ul id=\"post_list_box\">&&</ul",
-        "数组": "<li class=\"www_xsmp3_com post_list_li\">&&</div>",
-        "图片": "https://gd-filems.dancf.com/gaoding/cms/mcm79j/mcm79j/59385/6a211035-3658-45ce-a476-79f6f5dc02b71172884.png?x-oss-process=image/resize,h_1308/interlace,1",
-        "标题": "title=\"&&\"",
-        "副标题": ">&&</a",
-        "链接": "href=\"&&\"",
-        "播放二次截取": "autoplay&&;</script>",
-        "播放数组": "\\[&&\\]",
-        "播放列表": "{&&}",
-        "播放链接": "url*\"&&\"",
-        "播放标题": "name*\"&&\"",
-        "播放副标题": "artist*\"&&\"",
-        "线路数组": "相声随身听",
-        "线路标题": "相声随身听",
-        "导演": "小米",
-        "主演": "相声明星",
-        "简介": "相声合集",
-        "分类url": "https://www.xsmp3.com/{cateId}/{catePg}.html;;av",
-        "分类": "郭德纲$gdg#德云社$dys#新势力$xsxsl#青区社$qqs#马三立$msl#更多$xsmj"
-      }
+      "ext": "./json/xiangsheng.json"
     },
     {
       "key": "评书",
@@ -256,29 +228,7 @@
       },
       "quickSearch": 0,
       "api": "csp_XBPQ",
-      "jar": "http://luoye.shop/b.jar;md5;1484e86a3a4463eaf8ef41c6832a1df0",
-      "ext": {
-        "主页url": "https://www.psmp3.com",
-        "数组二次截取": "<ul id=\"post_list_box\">&&</ul",
-        "数组": "<li class=\"www_psmp3_com post_list_li\">&&</div>",
-        "图片": "https://bkimg.cdn.bcebos.com/pic/86d6277f9e2f07084e3cb402ee24b899a901f2f3",
-        "标题": "title=\"&&\"",
-        "副标题": ">&&</a",
-        "链接": "href=\"&&\"",
-        "播放二次截取": "autoplay&&;</script>",
-        "播放数组": "\\[&&\\]",
-        "播放列表": "{&&}",
-        "播放链接": "url*\"&&\"",
-        "播放标题": "name*\"&&\"",
-        "播放副标题": "artist*\"&&\"",
-        "线路数组": "评书随身听",
-        "线路标题": "评书随身听",
-        "导演": "小米",
-        "主演": "评书明星",
-        "简介": "评书合集",
-        "分类url": "https://www.psmp3.com/{cateId}/{catePg}.html;;av",
-        "分类": "袁阔成$ykc#单田芳$stf#田连元$tly#刘兰芳$llf#连丽如$llr#张少佐$zsz#田战义$tzy"
-      }
+      "ext": "./json/pingshu.json"
     },
         {
             "key": "csp_XYQHiker_虎牙直播",
@@ -305,92 +255,92 @@
             "key": "js_i275听书",
             "name": "📚️┃听书┃i275",
             "type": 3,
-            "api": "https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js",
+            "api": "./js/drpy2.min.js",
             "changeable": 0,
             "style": {
                 "type": "rect",
                 "ratio": 1
             },
-            "ext": "https://jihulab.com/foxccs/aoki/-/raw/main/see/i275.js"
+            "ext": "./js/i275.js"
         },
         {
             "key": "js_博看听书",
             "name": "📚️┃听书┃博看",
             "type": 3,
-            "api": "https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js",
+            "api": "./js/drpy2.min.js",
             "changeable": 0,
             "style": {
                 "type": "rect",
                 "ratio": 1
             },
-            "ext": "https://jihulab.com/foxccs/aoki/-/raw/main/see/bokan.js"
+            "ext": "./js/bokan.js"
         },
         {
             "key": "js_海洋听书",
             "name": "📚️┃听书┃海洋",
             "type": 3,
-            "api": "https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js",
+            "api": "./js/drpy2.min.js",
             "changeable": 0,
             "style": {
                 "type": "rect",
                 "ratio": 1
             },
-            "ext": "https://jihulab.com/foxccs/aoki/-/raw/main/see/sea.js"
+            "ext": "./js/sea.js"
         },
         {
             "key": "js_六月听书",
             "name": "📚️┃听书┃六月",
             "type": 3,
-            "api": "https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js",
+            "api": "./js/drpy2.min.js",
             "changeable": 0,
             "style": {
                 "type": "rect",
                 "ratio": 1
             },
-            "ext": "https://jihulab.com/foxccs/aoki/-/raw/main/see/6yue.js"
+            "ext": "./js/6yue.js"
         },
         {
             "key": "js_听书网",
             "name": "📚️┃听书┃天天",
             "type": 3,
-            "api": "https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js",
+            "api": "./js/drpy2.min.js",
             "changeable": 0,
             "style": {
                 "type": "rect",
                 "ratio": 1
             },
-            "ext": "https://jihulab.com/foxccs/aoki/-/raw/main/see/tingshu.js"
+            "ext": "./js/tingshu.js"
         },
         {
             "key": "js_有声小说",
             "name": "📚️┃听书┃有声",
             "type": 3,
-            "api": "https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js",
+            "api": "./js/drpy2.min.js",
             "changeable": 0,
             "style": {
                 "type": "rect",
                 "ratio": 1
             },
-            "ext": "https://jihulab.com/foxccs/aoki/-/raw/main/see/yousheng.js"
+            "ext": "./js/yousheng.js"
         },
         {
             "key": "js_中华听书网",
             "name": "📚️┃听书┃中华",
             "type": 3,
-            "api": "https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js",
+            "api": "./js/drpy2.min.js",
             "changeable": 0,
             "style": {
                 "type": "rect",
                 "ratio": 1
             },
-            "ext": "https://jihulab.com/foxccs/aoki/-/raw/main/see/zhonghua.js"
+            "ext": "./js/zhonghua.js"
         },
         {
             "key": "喜马拉雅",
             "name": "📚️┃听书┃xmly",
             "type": 3,
-            "api": "https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js",
-            "ext": "https://jihulab.com/foxccs/aoki/-/raw/main/see/ximalaya.js"
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/ximalaya.js"
         },
         {
             "key": "兴趣健身",
