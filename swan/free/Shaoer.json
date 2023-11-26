@@ -24,7 +24,7 @@
 		
 {"key":"js_baby","name":"👶┃宝宝合集Ⅰ","type":3,"api":"./js/drpy2.min.js",
 "searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/baby.js"},
-{"key": "py_baby","name": "🏕️┃宝宝合集Ⅱ","type": 3,"jar": "./jar/XYQ.jar;md5;d4d86ebaffa18b3058e2fad90ace00af","api": "py_baby","searchable": 0, "quickSearch": 0, "filterable": 1,"ext": "./lib/baby.py"},
+{"key": "py_baby","name": "🏕️┃宝宝合集Ⅱ","type": 3,"api": "py_baby","searchable": 0, "quickSearch": 0, "filterable": 1,"ext": "./lib/baby.py"},
         {
             "key": "csp_XYQHiker_兔小贝",
             "name": "🐇┃兔小贝Ⅰ",
