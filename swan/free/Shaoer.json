@@ -250,6 +250,7 @@
 			"key": " py_中国文化",
 			"name": 🌏小灯塔文化,
 			"type": 3,
+			"jar": "./jar/fan.jar",
 			"api": "py_中国文化",
 			"searchable": 1,
 			"quickSearch": 1,
