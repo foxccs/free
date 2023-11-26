@@ -105,11 +105,11 @@
           "key":"88看球",
           "name":"⚽┃88看球",
           "type":3,
-          "api":"https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js",
+          "api":"./js/drpy2.min.js",
           "searchable":0,
           "quickSearch":0,
           "filterable":1,
-          "ext":"https://jihulab.com/foxccs/aoki/-/raw/main/see/88kanqiu.js"
+          "ext":"./js/88kanqiu.js"
         },
         {
             "key": "JRKAN直播",
@@ -125,11 +125,11 @@
             "key": "js_310直播",
             "name": "🏀┃三一直播",
             "type": 3,
-            "api": "https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js",
+            "api": "./js/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://jihulab.com/foxccs/aoki/-/raw/main/see/310.js"
+            "ext": "./js/310.js"
         },
         {
             "key": "py_TYjs",
@@ -165,14 +165,13 @@
             "key": "拳皇争霸",
             "name": "👊┃拳皇争霸",
             "type": 3,
-            "api": "https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js",
-            "ext": "https://jihulab.com/foxccs/aoki/-/raw/main/see/quanhuang.js"
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/quanhuang.js"
         },
         {
             "key": "csp_XYQHiker_虎牙直播",
             "name": "🐯┃虎牙直播",
             "type": 3,
-            "jar": "./jar/XYQ.jar;md5;d4d86ebaffa18b3058e2fad90ace00af",
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 0,
@@ -183,7 +182,6 @@
             "key": "csp_XYQHiker_斗鱼直播",
             "name": "🐠┃斗鱼直播",
             "type": 3,
-            "jar": "./jar/XYQ.jar;md5;d4d86ebaffa18b3058e2fad90ace00af",
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
