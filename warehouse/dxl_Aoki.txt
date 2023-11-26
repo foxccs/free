@@ -11,9 +11,9 @@
             "name": "🍃青木 | 青木一线"
         },      
         {
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/QingMu/AoKi.json",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/QingMu/AoKi.json,
             "name": "🍃青木 | 青木二线"
-        },                      
+        },      
        {
             "url": "http://yydsys.top/duo",
             "name": "🍃青木 | 多多线路"
