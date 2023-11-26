@@ -1003,7 +1003,7 @@
     },
    {
       "key": "百度资源",
-      "name": "百度(官)",
+      "name": "☁️百度(官)",
       "type": 1,
       "api": "https://api.apibdzy.com/api.php/provide/vod/",
       "categories": [
