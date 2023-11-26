@@ -38,28 +38,16 @@
             "api": "./js/直播转点播2.js",
             "ext": "./txt/直播.txt"
         },
-          {
-            "key": "csp_KungFu404",
-            "name": "💠阿里┃设置",
-            "type": 3,
-            "api": "csp_KungFu404",
-            "searchable": 0,
-            "filterable": 0,
-            "changeable": 0,
-            "jar": "./jar/alibaba.jar",
-            "ext": "http://127.0.0.1:9978/file/Aoki/token.txt+4k|fhd|auto"
-        },
-         {
-          "key": "csp_ttkx",
-          "name": "👽玩偶┃网盘",
-          "type": 3,
-          "api": "csp_Wogg",
-          "searchable": 1,
-          "changeable": 0,
-          "ext": {"token": "http://127.0.0.1:9978/file/Aoki/token.txt+4k|fhd|auto",
-                  "filter": "./json/wogg.json"},
-          "jar": "./jar/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9"
-        },	
+    {
+      "key": "csp_玩偶哥哥",
+      "name": "👽玩偶┃网盘",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://pan.shangui.cc/f/jo2ec7/玩偶哥哥.json"
+    },
         {
             "key": "玩偶内置",
             "name": "👽玩偶┃T4",
@@ -108,8 +96,8 @@
       "name": "🌊BT┃超清",
       "playerType": 1,
       "type": 3,
-      "api": "https://jihulab.com/foxccs/aoki/-/raw/main/see/drpy2.min.js",
-      "ext": "https://jihulab.com/foxccs/aoki/-/raw/main/see/%E4%B8%A4%E4%B8%AABT.js"
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/两个BT.js"
     },
     {
       "key": "tudou",
