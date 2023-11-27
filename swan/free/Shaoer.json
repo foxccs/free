@@ -74,6 +74,16 @@
             "ext": "./json/播视童趣.json"
         },
        {
+            "key": "少儿教育",
+            "name": "🎈┃少儿教育",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/shaoerjiaoyu.json"
+        },
+       {
             "key": "dr_兔小贝.fty",
             "name": "👶┃儿童启蒙",
             "type": 3,
