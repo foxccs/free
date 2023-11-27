@@ -16,7 +16,7 @@
 {"key":"豆瓣","name":"🐦公众号：Aoki分享","type":3,"api":"./js/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./js/douban.js"},
     {
       "key": "新片热播",
-      "name": "🐩新片",
+      "name": "🐩新片┃秒播",
       "type": 1,
       "api": "https://api.iku.cool/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -29,14 +29,14 @@
     },
     {
       "key": "直播转点播",
-      "name": "📺︎┃电视┃直播",
+      "name": "📺︎电视┃直播",
       "type": 3,
       "api": "./js/直播转点播2.js",
       "ext": "./txt/直播.txt"
     },
     {
       "key": "好趣网",
-      "name": "📺┃电视┃频道",
+      "name": "📺电视┃频道",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./js/好趣网.js"
@@ -83,7 +83,7 @@
     },
     {
       "key": "csp_ttkx",
-      "name": "玩偶┃网盘",
+      "name": "👽玩偶┃网盘",
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,
@@ -914,7 +914,7 @@
     },    
         {
       "key": "吾爱解说",
-      "name": "📽️┃电影解说",
+      "name": "📽️电影┃解说",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -924,7 +924,7 @@
     },
     {
       "key": "csp_Yj1211",
-      "name": "📽️┃在线直播",
+      "name": "📽️在线┃直播",
       "type": 3,
       "api": "csp_Yj1211",
       "searchable": 1,
@@ -959,7 +959,7 @@
     },
     {
       "key": "FirstAid",
-      "name": "🚑┃急救┃教学",
+      "name": "🚑急救┃教学",
       "type": 3,
       "jar": "./jar/fan.jar",
       "api": "csp_FirstAid",
@@ -973,7 +973,7 @@
     },
     {
       "key": "春节",
-      "name": "🧡┃春节┃合集",
+      "name": "🧡春节┃合集",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -983,7 +983,7 @@
     },
     {
       "key": "csp_XYQHiker_虎牙直播",
-      "name": "🐯┃虎牙┃直播",
+      "name": "🐯虎牙┃直播",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -993,7 +993,7 @@
     },
     {
       "key": "csp_XYQHiker_斗鱼直播",
-      "name": "🐠┃斗鱼┃直播",
+      "name": "🐠斗鱼┃直播",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
