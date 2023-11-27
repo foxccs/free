@@ -15,11 +15,17 @@
 
 {"key":"豆瓣","name":"🐦公众号：Aoki分享","type":3,"api":"./js/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./js/douban.js"},
     {
-      "key": "广播迷",
-      "name": "📻调频┃广播",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./json/广播.json"
+      "key": "新片热播",
+      "name": "🐩新片",
+      "type": 1,
+      "api": "https://api.iku.cool/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "连续剧",
+        "动漫"
+      ]
     },
     {
       "key": "直播转点播",
@@ -165,66 +171,21 @@
       "ext": "./json/斗鱼直播.json"
     },
     {
-      "key": "csp_玩偶哥哥",
-      "name": "👽玩偶┃网盘",
+      "key": "csp_ttkx",
+      "name": "玩偶┃网盘",
       "type": 3,
-      "api": "csp_XYQHikerAL",
+      "api": "csp_Wogg",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/玩偶哥哥.json"
+      "changeable": 0,
+      "ext": {"token": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto",
+      "filter": "./json/wogg.json"},
+      "jar": "./jar/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9"
     },
     {
       "key": "玩偶内置",
       "name": "👽玩偶┃哥哥",
       "type": 4,
       "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=f376521b7ba247b183262c2732d870ba"
-    },
-    {
-      "key": "姐姐",
-      "name": "👽玩偶┃姐姐",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://dytt996.com/api.php/app/"
-    },
-    {
-      "key": "小姨",
-      "name": "👽玩偶┃妹妹",
-      "type": 1,
-      "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
-      "categories": [
-        "电影",
-        "电视剧",
-        "综艺",
-        "动漫"
-      ]
-    },
-    {
-      "key": "新片热播",
-      "name": "🐩新片",
-      "type": 1,
-      "api": "https://api.iku.cool/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "连续剧",
-        "动漫"
-      ]
-    },
-    {
-      "key": "csp_JianPian",
-      "name": "🕊️荐片",
-      "type": 3,
-      "api": "csp_JianPian",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ownjpykxttjzuhy.jiesiwa.com"
     },
     {
       "key": "csp_xBPQ_玖八",
