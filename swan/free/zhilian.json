@@ -317,10 +317,21 @@
       "type": 1,
       "api": "https://xkanzy10.com/api.php/provide/vod"
     },
+   {
+      "key":"酷影",
+      "name":"🌊酷影",
+      "type":3,
+      "api":"csp_AppYsV2", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1, 
+      "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
+    },
     {
       "key": "莱米",
       "name": "🍚莱米",
       "type": 3,
+      "jar":"./jar/ttkx.jar",
       "api": "csp_XBPQ",
       "playerType": "2",
       "ext": {
