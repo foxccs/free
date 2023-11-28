@@ -15,10 +15,6 @@
             "name": "🍃青木 | 青木二线"
         },      
        {
-            "url": "http://yydsys.top/duo",
-            "name": "🍃青木 | 多多线路"
-        },
-       {
             "url": "http://rihou.vip:51/天天开心",
             "name": "🍃青木 | 天天开心"
         },
@@ -41,11 +37,7 @@
         {
             "url": "http://肥猫.live",
             "name": "🍃青木 | 肥猫线路"
-        },                      
-        {
-            "url": "https://raw.gitmirror.com/xmbjm/shiguang/main/shiguangdx.json",
-            "name": "🍃青木| 熊猫线路"
-        },                                                                                    
+        },                                                                                              
         {
             "url": "http://111.67.195.139/yydf/yyffjk.json",
             "name": "🍃青木 | 业余打发"
